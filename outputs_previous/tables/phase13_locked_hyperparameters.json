@@ -1,0 +1,47 @@
+{
+    "Stage 1": {
+        "Logistic Regression": {
+            "C": 1.0
+        },
+        "Random Forest": {
+            "max_depth": 10,
+            "min_samples_leaf": 1,
+            "n_estimators": 300
+        },
+        "Gradient Boosting": {
+            "learning_rate": 0.1,
+            "max_depth": 3,
+            "n_estimators": 200
+        }
+    },
+    "Stage 2": {
+        "Logistic Regression": {
+            "C": 1.0
+        },
+        "Random Forest": {
+            "max_depth": null,
+            "min_samples_leaf": 1,
+            "n_estimators": 300
+        },
+        "Gradient Boosting": {
+            "learning_rate": 0.1,
+            "max_depth": 2,
+            "n_estimators": 200
+        }
+    },
+    "Stage 3": {
+        "Logistic Regression": {
+            "C": 0.1
+        },
+        "Random Forest": {
+            "max_depth": null,
+            "min_samples_leaf": 1,
+            "n_estimators": 300
+        },
+        "Gradient Boosting": {
+            "learning_rate": 0.05,
+            "max_depth": 3,
+            "n_estimators": 200
+        }
+    }
+}

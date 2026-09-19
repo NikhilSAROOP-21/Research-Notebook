@@ -1,0 +1,5 @@
+Student_Index,Stage,Model,Observed_Dropout,Dropout_Probability,Default_Threshold,Default_Prediction,Locked_Threshold,Locked_Prediction,Prediction_Category,Case_Label
+3533,Stage 3,Logistic Regression,1,0.999707941060399,0.5,1,0.57,1,True Positive,High-confidence true positive
+894,Stage 3,Logistic Regression,0,0.012800440404391636,0.5,0,0.57,0,True Negative,High-confidence true negative
+2447,Stage 3,Logistic Regression,0,0.9911556165316032,0.5,1,0.57,1,False Positive,High-confidence false positive
+4244,Stage 3,Logistic Regression,1,0.02655595858668358,0.5,0,0.57,0,False Negative,High-confidence false negative

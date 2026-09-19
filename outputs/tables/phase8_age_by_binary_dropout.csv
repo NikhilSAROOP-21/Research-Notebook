@@ -1,0 +1,3 @@
+Dropout_binary,count,mean,median,std,min,max
+Non-dropout,3003,21.94,19.0,6.6,17,62
+Dropout,1421,26.07,23.0,8.7,18,70

@@ -1,0 +1,11 @@
+LIME_Condition,LIME_Weight,Abs_LIME_Weight,Direction
+Curricular units 2nd sem (approved) <= 2.00,0.4231963868150653,0.4231963868150653,Supports Dropout prediction
+Tuition fees up to date=0,0.22592814564390132,0.22592814564390132,Supports Dropout prediction
+Curricular units 1st sem (approved) <= 3.00,0.21244398511596432,0.21244398511596432,Supports Dropout prediction
+Curricular units 2nd sem (credited) <= 0.00,-0.12030008729284745,0.12030008729284745,Supports Non-dropout prediction
+Debtor=1,0.07704780739016812,0.07704780739016812,Supports Dropout prediction
+Mother's occupation=0,0.07496691979102418,0.07496691979102418,Supports Dropout prediction
+Mother's qualification=34,0.07020255552382094,0.07020255552382094,Supports Dropout prediction
+Scholarship holder=0,0.0637004912571604,0.0637004912571604,Supports Dropout prediction
+Curricular units 2nd sem (grade) <= 10.75,0.06072256193347126,0.06072256193347126,Supports Dropout prediction
+Curricular units 2nd sem (without evaluations) <= 0.00,0.05501298581836939,0.05501298581836939,Supports Dropout prediction

@@ -1,0 +1,61 @@
+Stage,Feature,Values_Unchanged
+Stage 1,Daytime/evening attendance,True
+Stage 1,Displaced,True
+Stage 1,Educational special needs,True
+Stage 1,Debtor,True
+Stage 1,Tuition fees up to date,True
+Stage 1,Gender,True
+Stage 1,Scholarship holder,True
+Stage 1,Application order,True
+Stage 1,Previous qualification (grade),True
+Stage 1,Admission grade,True
+Stage 1,Age at enrollment,True
+Stage 1,Unemployment rate,True
+Stage 1,Inflation rate,True
+Stage 1,GDP,True
+Stage 2,Daytime/evening attendance,True
+Stage 2,Displaced,True
+Stage 2,Educational special needs,True
+Stage 2,Debtor,True
+Stage 2,Tuition fees up to date,True
+Stage 2,Gender,True
+Stage 2,Scholarship holder,True
+Stage 2,Application order,True
+Stage 2,Previous qualification (grade),True
+Stage 2,Admission grade,True
+Stage 2,Age at enrollment,True
+Stage 2,Curricular units 1st sem (credited),True
+Stage 2,Curricular units 1st sem (enrolled),True
+Stage 2,Curricular units 1st sem (evaluations),True
+Stage 2,Curricular units 1st sem (approved),True
+Stage 2,Curricular units 1st sem (grade),True
+Stage 2,Curricular units 1st sem (without evaluations),True
+Stage 2,Unemployment rate,True
+Stage 2,Inflation rate,True
+Stage 2,GDP,True
+Stage 3,Daytime/evening attendance,True
+Stage 3,Displaced,True
+Stage 3,Educational special needs,True
+Stage 3,Debtor,True
+Stage 3,Tuition fees up to date,True
+Stage 3,Gender,True
+Stage 3,Scholarship holder,True
+Stage 3,Application order,True
+Stage 3,Previous qualification (grade),True
+Stage 3,Admission grade,True
+Stage 3,Age at enrollment,True
+Stage 3,Curricular units 1st sem (credited),True
+Stage 3,Curricular units 1st sem (enrolled),True
+Stage 3,Curricular units 1st sem (evaluations),True
+Stage 3,Curricular units 1st sem (approved),True
+Stage 3,Curricular units 1st sem (grade),True
+Stage 3,Curricular units 1st sem (without evaluations),True
+Stage 3,Curricular units 2nd sem (credited),True
+Stage 3,Curricular units 2nd sem (enrolled),True
+Stage 3,Curricular units 2nd sem (evaluations),True
+Stage 3,Curricular units 2nd sem (approved),True
+Stage 3,Curricular units 2nd sem (grade),True
+Stage 3,Curricular units 2nd sem (without evaluations),True
+Stage 3,Unemployment rate,True
+Stage 3,Inflation rate,True
+Stage 3,GDP,True

@@ -1,0 +1,10 @@
+Stage,Model,Heldout_Students,Transformed_Features,Source_Features,Finite_SHAP_Values,Background_Method,Requested_Background_Size,Effective_Background_Size,Additivity_Check_Passed
+Stage 1,Logistic Regression,885,222,23,True,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,True
+Stage 1,Random Forest,885,222,23,True,TreeSHAP tree-path-dependent training representation,,,True
+Stage 1,Gradient Boosting,885,222,23,True,TreeSHAP tree-path-dependent training representation,,,True
+Stage 2,Logistic Regression,885,228,29,True,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,True
+Stage 2,Random Forest,885,228,29,True,TreeSHAP tree-path-dependent training representation,,,True
+Stage 2,Gradient Boosting,885,228,29,True,TreeSHAP tree-path-dependent training representation,,,True
+Stage 3,Logistic Regression,885,234,35,True,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,True
+Stage 3,Random Forest,885,234,35,True,TreeSHAP tree-path-dependent training representation,,,True
+Stage 3,Gradient Boosting,885,234,35,True,TreeSHAP tree-path-dependent training representation,,,True

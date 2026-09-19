@@ -1,0 +1,6 @@
+Responsible_Use_Area,Evidence,Model_Changed
+Probability calibration,Held-out Brier scores and Stage 3 calibration curves assessed.,No
+Subgroup performance,"Gender, age, International status, Scholarship status, Debtor status and Tuition-fee status audited.",No
+False negatives,Missed Dropout cases profiled using probabilities and SHAP.,No
+Counterfactual explanation,DiCE restricted to pre-approved variables and academic-feasibility constraints.,No
+Supplementary local explanation,LIME applied as a secondary comparison with SHAP.,No

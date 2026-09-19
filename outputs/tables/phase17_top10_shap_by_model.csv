@@ -1,0 +1,91 @@
+Stage,Model,Source_Feature,Mean_Abs_SHAP,Importance_Share,SHAP_Rank
+Stage 1,Gradient Boosting,Tuition fees up to date,0.6374998402655481,0.2228423704456517,1
+Stage 1,Gradient Boosting,Age at enrollment,0.3868652383504906,0.13523135428729666,2
+Stage 1,Gradient Boosting,Scholarship holder,0.3394885272239973,0.11867050525720288,3
+Stage 1,Gradient Boosting,Course,0.29130277229604845,0.10182684950760368,4
+Stage 1,Gradient Boosting,Gender,0.20650804736417228,0.07218628128842532,5
+Stage 1,Gradient Boosting,Application mode,0.15415381657342966,0.05388550667582608,6
+Stage 1,Gradient Boosting,Debtor,0.13117618665909367,0.04585352110669924,7
+Stage 1,Gradient Boosting,Mother's occupation,0.13073235169345138,0.04569837559985614,8
+Stage 1,Gradient Boosting,Unemployment rate,0.08956245087671379,0.03130715899156238,9
+Stage 1,Gradient Boosting,Admission grade,0.07859484826329782,0.02747335949843391,10
+Stage 1,Logistic Regression,Tuition fees up to date,0.5413015780483427,0.1443216263129391,1
+Stage 1,Logistic Regression,Course,0.44344770494972024,0.11823186289948033,2
+Stage 1,Logistic Regression,Application mode,0.3883385495918354,0.10353868030308291,3
+Stage 1,Logistic Regression,Scholarship holder,0.36642701014260975,0.09769663376825839,4
+Stage 1,Logistic Regression,Gender,0.26836356175435555,0.07155099346867688,5
+Stage 1,Logistic Regression,Mother's occupation,0.240090786453806,0.06401291658653042,6
+Stage 1,Logistic Regression,Mother's qualification,0.17821854000153758,0.04751656114670041,7
+Stage 1,Logistic Regression,Unemployment rate,0.16557020011527326,0.04414426544949212,8
+Stage 1,Logistic Regression,Father's occupation,0.14727199474321637,0.03926560470842263,9
+Stage 1,Logistic Regression,Debtor,0.14547331253175344,0.03878604072319571,10
+Stage 1,Random Forest,Tuition fees up to date,0.04906424811298286,0.16190354832158366,1
+Stage 1,Random Forest,Scholarship holder,0.040149212255399636,0.13248546908325237,2
+Stage 1,Random Forest,Age at enrollment,0.03711369446599059,0.12246878442996062,3
+Stage 1,Random Forest,Application mode,0.03060849415380583,0.10100274645746195,4
+Stage 1,Random Forest,Gender,0.02665691085836317,0.08796320378379825,5
+Stage 1,Random Forest,Course,0.023743094436592893,0.07834811263319165,6
+Stage 1,Random Forest,Debtor,0.02086591914384245,0.06885393088262638,7
+Stage 1,Random Forest,Previous qualification (grade),0.010623961317873166,0.03505723822841526,8
+Stage 1,Random Forest,Previous qualification,0.008511296973554912,0.02808581062251441,9
+Stage 1,Random Forest,Mother's qualification,0.007935206159120871,0.026184810391194004,10
+Stage 2,Gradient Boosting,Curricular units 1st sem (approved),1.0532618229130175,0.3013830777577549,1
+Stage 2,Gradient Boosting,Tuition fees up to date,0.42824636601874805,0.12253952912899141,2
+Stage 2,Gradient Boosting,Age at enrollment,0.3067720790944793,0.08778056068901584,3
+Stage 2,Gradient Boosting,Curricular units 1st sem (grade),0.2814681884691132,0.08054003960487868,4
+Stage 2,Gradient Boosting,Curricular units 1st sem (enrolled),0.2527899297710703,0.07233396806300428,5
+Stage 2,Gradient Boosting,Gender,0.16370466291559604,0.046842878075979255,6
+Stage 2,Gradient Boosting,Scholarship holder,0.16056932073108648,0.0459457231076374,7
+Stage 2,Gradient Boosting,Course,0.13564655616197924,0.03881425842462498,8
+Stage 2,Gradient Boosting,Debtor,0.11721489105915481,0.03354017382757205,9
+Stage 2,Gradient Boosting,Unemployment rate,0.09997455970252236,0.028606980567557238,10
+Stage 2,Logistic Regression,Curricular units 1st sem (approved),1.7665387339717404,0.26704269659476404,1
+Stage 2,Logistic Regression,Curricular units 1st sem (enrolled),0.6006116167872306,0.09079277044347496,2
+Stage 2,Logistic Regression,Tuition fees up to date,0.5008893155479486,0.07571803037610021,3
+Stage 2,Logistic Regression,Course,0.4108232006964087,0.06210298887191903,4
+Stage 2,Logistic Regression,Curricular units 1st sem (credited),0.3308145124661064,0.050008300289578846,5
+Stage 2,Logistic Regression,Unemployment rate,0.3177865236976976,0.04803889583497047,6
+Stage 2,Logistic Regression,Application mode,0.2706021587068181,0.040906167963248856,7
+Stage 2,Logistic Regression,Age at enrollment,0.22624807253288876,0.03420128538744902,8
+Stage 2,Logistic Regression,Gender,0.22339020287014588,0.033769269260896635,9
+Stage 2,Logistic Regression,Mother's qualification,0.21913687051135067,0.033126304959710466,10
+Stage 2,Random Forest,Curricular units 1st sem (approved),0.10205943309897042,0.2094806843547326,1
+Stage 2,Random Forest,Curricular units 1st sem (grade),0.06251210579737058,0.12830836215002198,2
+Stage 2,Random Forest,Tuition fees up to date,0.05005434359785833,0.10273835385346726,3
+Stage 2,Random Forest,Age at enrollment,0.035916830484931744,0.07372059594472043,4
+Stage 2,Random Forest,Scholarship holder,0.0292062196815934,0.059946824125329826,5
+Stage 2,Random Forest,Application mode,0.023755202906405197,0.04875841468758359,6
+Stage 2,Random Forest,Debtor,0.023113412286732703,0.04744111618670843,7
+Stage 2,Random Forest,Course,0.021858212742386897,0.0448647736422978,8
+Stage 2,Random Forest,Gender,0.019956552912642762,0.04096154793891375,9
+Stage 2,Random Forest,Curricular units 1st sem (evaluations),0.018192186395538455,0.03734012173427109,10
+Stage 3,Gradient Boosting,Curricular units 2nd sem (approved),1.1198135074599598,0.3220258833732653,1
+Stage 3,Gradient Boosting,Tuition fees up to date,0.3906398645971934,0.11233669413674398,2
+Stage 3,Gradient Boosting,Curricular units 1st sem (approved),0.28939412472378795,0.08322135608865475,3
+Stage 3,Gradient Boosting,Age at enrollment,0.23955623474945578,0.06888942453261591,4
+Stage 3,Gradient Boosting,Curricular units 2nd sem (grade),0.2379988920796452,0.06844157795314557,5
+Stage 3,Gradient Boosting,Curricular units 2nd sem (enrolled),0.13817831771309028,0.039736076166397426,6
+Stage 3,Gradient Boosting,Scholarship holder,0.12371033546599053,0.03557550413122075,7
+Stage 3,Gradient Boosting,Course,0.11722756716276649,0.03371124800674766,8
+Stage 3,Gradient Boosting,Gender,0.08172860182616533,0.023502775260883173,9
+Stage 3,Gradient Boosting,Debtor,0.08151891695303998,0.02344247597350329,10
+Stage 3,Logistic Regression,Curricular units 2nd sem (approved),1.277678484428335,0.22117224066284888,1
+Stage 3,Logistic Regression,Curricular units 1st sem (approved),0.6706983458536977,0.11610108315136855,2
+Stage 3,Logistic Regression,Curricular units 2nd sem (enrolled),0.48313555041019296,0.08363306851481596,3
+Stage 3,Logistic Regression,Tuition fees up to date,0.3464692252496749,0.059975475679609466,4
+Stage 3,Logistic Regression,Course,0.2515865680348065,0.043550835089651616,5
+Stage 3,Logistic Regression,Curricular units 1st sem (enrolled),0.21555865903624075,0.03731423217528443,6
+Stage 3,Logistic Regression,Curricular units 2nd sem (grade),0.19578395161054393,0.033891135987082974,7
+Stage 3,Logistic Regression,Unemployment rate,0.1942147455396605,0.0336194989305082,8
+Stage 3,Logistic Regression,Application mode,0.18949313702714718,0.03280216597313858,9
+Stage 3,Logistic Regression,Age at enrollment,0.17916727943567656,0.031014710765819443,10
+Stage 3,Random Forest,Curricular units 2nd sem (approved),0.09747326677627276,0.1933321675219765,1
+Stage 3,Random Forest,Curricular units 2nd sem (grade),0.06071882603534735,0.12043201828607472,2
+Stage 3,Random Forest,Curricular units 1st sem (approved),0.05682774346486733,0.1127142978049858,3
+Stage 3,Random Forest,Tuition fees up to date,0.04033620436554069,0.08000435480939144,4
+Stage 3,Random Forest,Curricular units 1st sem (grade),0.029363483644310913,0.058240645119453656,5
+Stage 3,Random Forest,Age at enrollment,0.027636029079340686,0.05481434633634235,6
+Stage 3,Random Forest,Application mode,0.018097733410030972,0.035895729599655576,7
+Stage 3,Random Forest,Scholarship holder,0.01771823598261485,0.03514302003489077,8
+Stage 3,Random Forest,Debtor,0.01710152565309822,0.03391981341955995,9
+Stage 3,Random Forest,Course,0.015838245682545528,0.03141417610000001,10

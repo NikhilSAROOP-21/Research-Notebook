@@ -1,0 +1,16 @@
+File_Name,Rows,Columns,File_Size_Bytes,Relative_Path
+phase21_rq1_final_performance.csv,9,10,1268,outputs\tables\phase21_rq1_final_performance.csv
+phase21_highest_roc_auc_point_estimate_by_stage.csv,3,8,703,outputs\tables\phase21_highest_roc_auc_point_estimate_by_stage.csv
+phase21_stage_mean_performance.csv,3,6,354,outputs\tables\phase21_stage_mean_performance.csv
+phase21_prediction_group_coverage.csv,9,4,354,outputs\tables\phase21_prediction_group_coverage.csv
+phase21_rq2_top_features.csv,15,5,1098,outputs\tables\phase21_rq2_top_features.csv
+phase21_rq2_group_importance.csv,18,4,918,outputs\tables\phase21_rq2_group_importance.csv
+phase21_rq3_interpretability_summary.csv,8,3,848,outputs\tables\phase21_rq3_interpretability_summary.csv
+phase21_final_hypothesis_assessment.csv,4,5,1650,outputs\tables\phase21_final_hypothesis_assessment.csv
+phase21_final_research_alignment.csv,6,4,1720,outputs\tables\phase21_final_research_alignment.csv
+phase21_implementation_refinement_register.csv,7,5,4185,outputs\tables\phase21_implementation_refinement_register.csv
+phase21_unseen_category_audit.csv,162,11,12687,outputs\tables\phase21_unseen_category_audit.csv
+phase21_unseen_category_cases.csv,90,11,7404,outputs\tables\phase21_unseen_category_cases.csv
+phase21_final_limitation_register.csv,14,3,5249,outputs\tables\phase21_final_limitation_register.csv
+phase21_environment_snapshot.csv,14,2,274,outputs\tables\phase21_environment_snapshot.csv
+phase21_integrity_summary.csv,29,3,3951,outputs\tables\phase21_integrity_summary.csv

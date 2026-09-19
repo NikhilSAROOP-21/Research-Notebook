@@ -1,0 +1,3 @@
+Stage,Model,Medium_Tier_Lower_Bound,OOF_Recall_at_Lower_Bound,OOF_Precision_at_Lower_Bound,OOF_F1_at_Lower_Bound,High_Tier_Lower_Bound
+Stage 2,Logistic Regression,0.26,0.9050131926121372,0.5732590529247911,0.7019099590723056,0.56
+Stage 3,Logistic Regression,0.3,0.9032541776605101,0.6281345565749236,0.740981240981241,0.57

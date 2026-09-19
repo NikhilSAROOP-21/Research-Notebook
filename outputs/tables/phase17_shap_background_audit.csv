@@ -1,0 +1,10 @@
+Stage,Model,Background_Method,Requested_Background_Size,Effective_Background_Size,Explicit_Background_Size,Background_From_Training_Only,Test_Observations_In_Background
+Stage 1,Logistic Regression,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,100.0,True,0
+Stage 1,Random Forest,TreeSHAP tree-path-dependent training representation,,,,True,0
+Stage 1,Gradient Boosting,TreeSHAP tree-path-dependent training representation,,,,True,0
+Stage 2,Logistic Regression,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,100.0,True,0
+Stage 2,Random Forest,TreeSHAP tree-path-dependent training representation,,,,True,0
+Stage 2,Gradient Boosting,TreeSHAP tree-path-dependent training representation,,,,True,0
+Stage 3,Logistic Regression,Explicit reproducible 100-student training sample using an Independent masker,100.0,100.0,100.0,True,0
+Stage 3,Random Forest,TreeSHAP tree-path-dependent training representation,,,,True,0
+Stage 3,Gradient Boosting,TreeSHAP tree-path-dependent training representation,,,,True,0

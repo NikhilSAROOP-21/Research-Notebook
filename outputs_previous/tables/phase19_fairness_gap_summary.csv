@@ -1,0 +1,10 @@
+Model,Subgroup_Dimension,Stable_Groups_Compared,Recall_Max_minus_Min,FNR_Max_minus_Min,FPR_Max_minus_Min,Predicted_Positive_Rate_Gap
+Gradient Boosting,Age,3,0.258,0.258,0.0592,0.3813
+Gradient Boosting,Gender,2,0.0268,0.0268,0.0754,0.2038
+Gradient Boosting,International status,1,,,,
+Logistic Regression,Age,3,0.2396,0.2396,0.0837,0.3977
+Logistic Regression,Gender,2,0.0458,0.0458,0.0845,0.223
+Logistic Regression,International status,1,,,,
+Random Forest,Age,3,0.2602,0.2602,0.0715,0.3817
+Random Forest,Gender,2,0.0767,0.0767,0.0878,0.2247
+Random Forest,International status,1,,,,

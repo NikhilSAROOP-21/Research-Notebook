@@ -1,0 +1,10 @@
+Stage,Model,Matched_Output_Scale,Maximum_Absolute_Error,Mean_Absolute_Error,Tolerance,Additivity_Check_Passed
+Stage 1,Logistic Regression,Decision_Function,1.3322676295501878e-15,2.875916705031832e-16,0.0001,True
+Stage 1,Random Forest,Predicted_Probability,3.552713678800501e-15,2.127551117076875e-15,0.0001,True
+Stage 1,Gradient Boosting,Decision_Function,7.993605777301127e-15,1.7452925482733798e-15,0.0001,True
+Stage 2,Logistic Regression,Decision_Function,3.1086244689504383e-15,4.594567036937441e-16,0.0001,True
+Stage 2,Random Forest,Predicted_Probability,2.2863315615739843e-09,7.742530014209707e-11,0.0001,True
+Stage 2,Gradient Boosting,Decision_Function,7.105427357601002e-15,1.1673066977870385e-15,0.0001,True
+Stage 3,Logistic Regression,Decision_Function,1.7763568394002505e-15,3.7597044122051913e-16,0.0001,True
+Stage 3,Random Forest,Predicted_Probability,1.753608369625681e-11,4.80309868992333e-13,0.0001,True
+Stage 3,Gradient Boosting,Decision_Function,2.4868995751603507e-14,2.010222359726863e-14,0.0001,True

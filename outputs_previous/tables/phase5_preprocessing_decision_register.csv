@@ -1,0 +1,12 @@
+Issue,Evidence,Decision,Rationale
+Missing values,No missing values detected,No imputation,Imputation is unnecessary when no values are missing
+Duplicate records,No completely duplicated rows detected,Retain all records,No evidence supports duplicate-based row removal
+Column-name whitespace,Trailing tab detected in Daytime/evening attendance,Strip leading/trailing whitespace in working dataframe,Corrects a formatting issue without modifying source data
+Source spelling: Nacionality,Published source schema uses Nacionality,Retain source spelling,Maintains traceability to the published data dictionary
+Educational special needs,Highly imbalanced binary predictor,Retain,Low prevalence alone does not demonstrate irrelevance
+Zero-heavy academic predictors,Several variables contain a large proportion of zeros,Retain zeros as observed values,Zero represents meaningful academic counts rather than missing data
+Rare categorical levels,Several nominal variables contain low-frequency categories,Retain original categories,No evidence shows that rare categories are invalid
+Statistical outliers,IQR diagnostics flagged unusual observations,No automatic deletion or winsorisation,Unusual values may represent legitimate student records
+International redundancy,International is deterministically derivable from Nacionality,Exclude International from primary predictive feature sets,Avoid duplicate predictive information while retaining International for fairness analysis
+Qualification codes,Codes do not form a simple monotonic education hierarchy,Treat as nominal categorical,Avoid imposing unsupported ordinal relationships
+Application order,Values represent meaningful preference order,Treat as ordinal discrete,Preserves genuine ranking information

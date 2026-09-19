@@ -1,0 +1,65 @@
+Stage,Model,Feature,Nominal_Categorical,Displayed_in_Colour_Plot,Scope_Decision
+Stage 2,Logistic Regression,Marital status,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Application mode,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Course,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Previous qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Nacionality,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Mother's qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Father's qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Mother's occupation,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Father's occupation,True,False,Excluded because the nominal code has no numerical order
+Stage 2,Logistic Regression,Daytime/evening attendance,False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Displaced,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Educational special needs,False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Debtor,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Tuition fees up to date,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Gender,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Scholarship holder,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Application order,False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Previous qualification (grade),False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Admission grade,False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Age at enrollment,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Curricular units 1st sem (credited),False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Curricular units 1st sem (enrolled),False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Curricular units 1st sem (evaluations),False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Curricular units 1st sem (approved),False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Curricular units 1st sem (grade),False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Curricular units 1st sem (without evaluations),False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,Unemployment rate,False,True,Displayed in colour-coded summary plot
+Stage 2,Logistic Regression,Inflation rate,False,False,Eligible but outside the displayed top features
+Stage 2,Logistic Regression,GDP,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Marital status,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Application mode,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Course,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Previous qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Nacionality,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Mother's qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Father's qualification,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Mother's occupation,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Father's occupation,True,False,Excluded because the nominal code has no numerical order
+Stage 3,Logistic Regression,Daytime/evening attendance,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Displaced,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Educational special needs,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Debtor,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Tuition fees up to date,False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Gender,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Scholarship holder,False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Application order,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Previous qualification (grade),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Admission grade,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Age at enrollment,False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 1st sem (credited),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Curricular units 1st sem (enrolled),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 1st sem (evaluations),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Curricular units 1st sem (approved),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 1st sem (grade),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Curricular units 1st sem (without evaluations),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Curricular units 2nd sem (credited),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 2nd sem (enrolled),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 2nd sem (evaluations),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Curricular units 2nd sem (approved),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 2nd sem (grade),False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Curricular units 2nd sem (without evaluations),False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,Unemployment rate,False,True,Displayed in colour-coded summary plot
+Stage 3,Logistic Regression,Inflation rate,False,False,Eligible but outside the displayed top features
+Stage 3,Logistic Regression,GDP,False,False,Eligible but outside the displayed top features

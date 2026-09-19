@@ -1,0 +1,9 @@
+Area,Finding,Interpretation
+Original target,Graduate is the largest original class; Enrolled is the smallest.,The original outcome is unevenly distributed.
+Age,Dropout students are older on average.,Age shows descriptive association but substantial overlap remains.
+Financial status,Debtor and tuition-fee status show large differences in outcome composition.,Financial/admin variables may contain useful predictive information.
+Scholarship,Scholarship holders show a lower descriptive proportion of dropout.,Association is descriptive and not causal.
+Prior academic performance,Graduate students show somewhat higher prior/admission grades.,Differences exist but outcome distributions overlap substantially.
+Semester 1,Approved units and semester grade differ strongly across outcomes.,First-semester information may add outcome-related signal.
+Semester 2,Approved units and grade show pronounced outcome differences.,Later academic information contains strong descriptive outcome structure.
+Macroeconomic,Group-average differences are comparatively modest.,Predictive value cannot be determined from univariate averages alone.

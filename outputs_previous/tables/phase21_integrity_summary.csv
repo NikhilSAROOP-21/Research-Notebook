@@ -1,0 +1,30 @@
+Check,Passed,Detail
+Three prediction stages present,True,"Expected Stage 1, Stage 2 and Stage 3."
+Primary feature counts correct,True,"Primary modelling stages must contain 23, 29 and 35 predictors."
+International excluded from primary models,True,The deterministically redundant International variable must remain excluded from all primary predictive feature sets.
+Training and held-out partitions are disjoint,True,No student index may occur in both the training and held-out test partitions.
+All records assigned to one partition,True,The combined training and held-out indices must cover every source record.
+Nine final model-stage results present,True,Expected three models across all three prediction stages.
+Nine locked thresholds present,True,Every model-stage combination must have one training-derived classification threshold.
+Final prediction-row coverage complete,True,Expected one held-out prediction for every student in each of the nine model-stage combinations.
+Every model-stage combination covers all test students,True,Each model-stage combination must contain exactly one prediction for every held-out student.
+Nine SHAP model-stage combinations present,True,Global SHAP evidence must cover all three models across all three stages.
+Reproducible SHAP background evidence preserved,True,The SHAP background-index table and background audit must both contain records.
+SHAP additivity audit covers all models and stages,True,The SHAP reconstruction audit must cover all nine model-stage combinations.
+Nominal codes excluded from colour SHAP plots,True,No nominal categorical predictor may appear in a continuous-colour SHAP summary plot.
+Representative SHAP plot scope complete,True,The summary-plot scope audit must cover Stage 2 and Stage 3 Logistic Regression.
+SHAP background sensitivity sizes verified,True,"The alternative SHAP backgrounds must contain exactly 50 and 200 unique training students, their requested and effective sizes must match, and no held-out observations may be included."
+H3 comparison covers all later-stage models,True,Expected three models at Stage 2 and three models at Stage 3.
+H3 comparison values complete,True,"Academic, Demographic and Socioeconomic importance values must be present and finite for all six later-stage model rows."
+Fairness adequacy uses metric-specific denominators,True,"Recall and FNR must use observed dropout cases, FPR must use observed non-dropout cases and PPR must use total subgroup size."
+Fairness confidence intervals valid,True,Wilson confidence intervals must either be jointly missing or satisfy 0 <= lower <= upper <= 1.
+Fairness gaps use eligible groups only,True,A fairness gap must be missing when fewer than two groups have adequate metric-specific denominators.
+Unseen-category audit counts consistent,True,"An unseen level must affect at least one evaluation record, while zero unseen levels must affect no evaluation records."
+Risk tiers available for Stage 2 and Stage 3,True,Expected risk-tier boundaries for both later prediction stages.
+Stage 2 risk-tier structure complete,True,"Low, Medium and High tiers must all be present and together cover every held-out student."
+Stage 3 risk-tier structure complete,True,"Low, Medium and High tiers must all be present and together cover every held-out student."
+Required study limitations documented,True,"The limitation register must include the principal external, temporal, target, fairness, interpretability and deployment limitations."
+Four hypothesis outcomes present,True,The final assessment must contain one record for each hypothesis.
+Research alignment contains six elements,True,Three research questions and three objectives must be represented.
+Point-estimate leaders recorded for all stages,True,A highest ROC-AUC point estimate must be reported descriptively for every stage.
+Output manifest is not empty,True,"Figures, tables and model artifacts must be present."

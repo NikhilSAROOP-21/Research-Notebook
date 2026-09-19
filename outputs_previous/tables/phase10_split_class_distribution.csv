@@ -1,0 +1,7 @@
+Dataset,Binary_Value,Class,Count,Percentage
+Full dataset,0,Non-dropout,3003,67.88
+Full dataset,1,Dropout,1421,32.12
+Training,0,Non-dropout,2402,67.87
+Training,1,Dropout,1137,32.13
+Held-out test,0,Non-dropout,601,67.91
+Held-out test,1,Dropout,284,32.09

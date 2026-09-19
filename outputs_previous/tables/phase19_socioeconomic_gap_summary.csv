@@ -1,0 +1,10 @@
+Model,Subgroup_Dimension,Stable_Groups_Compared,Recall_Max_minus_Min,FNR_Max_minus_Min,FPR_Max_minus_Min,Predicted_Positive_Rate_Gap
+Gradient Boosting,Debtor status,2,0.1817,0.1817,0.2099,0.3904
+Gradient Boosting,Scholarship status,2,0.2483,0.2483,0.0555,0.2687
+Gradient Boosting,Tuition-fee status,2,0.3129,0.3129,0.5737,0.7301
+Logistic Regression,Debtor status,2,0.1814,0.1814,0.1484,0.3727
+Logistic Regression,Scholarship status,2,0.253,0.253,0.0929,0.3077
+Logistic Regression,Tuition-fee status,2,0.2538,0.2538,0.3118,0.6716
+Random Forest,Debtor status,2,0.1946,0.1946,0.1448,0.3631
+Random Forest,Scholarship status,2,0.1981,0.1981,0.0755,0.2717
+Random Forest,Tuition-fee status,2,0.2667,0.2667,0.3083,0.6469

@@ -1,0 +1,16 @@
+Model,Metric,Stage_1,Stage_2,Stage_3,Change_1_to_2,Change_2_to_3,Change_1_to_3
+Logistic Regression,Accuracy,0.7496,0.8412,0.8593,0.0916,0.0181,0.1097
+Logistic Regression,Precision,0.5969,0.7336,0.767,0.1367,0.0334,0.1701
+Logistic Regression,Recall,0.6887,0.7951,0.8083,0.1064,0.0132,0.1196
+Logistic Regression,F1,0.6392,0.7629,0.787,0.1237,0.0241,0.1478
+Logistic Regression,ROC_AUC,0.818,0.9025,0.9183,0.0845,0.0158,0.1003
+Random Forest,Accuracy,0.7776,0.8443,0.863,0.0667,0.0187,0.0854
+Random Forest,Precision,0.6739,0.779,0.8033,0.1051,0.0243,0.1294
+Random Forest,Recall,0.5972,0.7212,0.7608,0.124,0.0396,0.1636
+Random Forest,F1,0.6331,0.7487,0.7812,0.1156,0.0325,0.1481
+Random Forest,ROC_AUC,0.8124,0.8919,0.913,0.0795,0.0211,0.1006
+Gradient Boosting,Accuracy,0.7542,0.833,0.8601,0.0788,0.0271,0.1059
+Gradient Boosting,Precision,0.6067,0.7264,0.7745,0.1197,0.0481,0.1678
+Gradient Boosting,Recall,0.6728,0.7722,0.7968,0.0994,0.0246,0.124
+Gradient Boosting,F1,0.6375,0.7484,0.7855,0.1109,0.0371,0.148
+Gradient Boosting,ROC_AUC,0.8193,0.8945,0.9123,0.0752,0.0178,0.093

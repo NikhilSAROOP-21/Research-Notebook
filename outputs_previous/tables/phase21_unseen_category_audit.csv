@@ -1,0 +1,163 @@
+Stage,Evaluation_Scope,Fold,Feature,Reference_N,Evaluation_N,Reference_Level_Count,Evaluation_Level_Count,Unseen_Level_Count,Unseen_Levels,Affected_Evaluation_Rows
+Stage 1,Held-out test,,Marital status,3539,885,6,5,0,None,0
+Stage 1,Held-out test,,Application mode,3539,885,18,15,0,None,0
+Stage 1,Held-out test,,Course,3539,885,17,17,0,None,0
+Stage 1,Held-out test,,Previous qualification,3539,885,16,15,1,14,1
+Stage 1,Held-out test,,Nacionality,3539,885,19,11,2,108 | 32,2
+Stage 1,Held-out test,,Mother's qualification,3539,885,27,19,2,18 | 27,2
+Stage 1,Held-out test,,Father's qualification,3539,885,31,18,3,13 | 18 | 42,3
+Stage 1,Held-out test,,Mother's occupation,3539,885,31,26,1,173,1
+Stage 1,Held-out test,,Father's occupation,3539,885,43,26,3,114 | 141 | 153,3
+Stage 1,Cross-validation fold,1.0,Marital status,2831,708,6,3,0,None,0
+Stage 1,Cross-validation fold,1.0,Application mode,2831,708,17,15,1,26,1
+Stage 1,Cross-validation fold,1.0,Course,2831,708,17,17,0,None,0
+Stage 1,Cross-validation fold,1.0,Previous qualification,2831,708,15,13,1,5,1
+Stage 1,Cross-validation fold,1.0,Nacionality,2831,708,17,9,2,105 | 17,2
+Stage 1,Cross-validation fold,1.0,Mother's qualification,2831,708,23,20,4,14 | 22 | 26 | 36,6
+Stage 1,Cross-validation fold,1.0,Father's qualification,2831,708,31,21,0,None,0
+Stage 1,Cross-validation fold,1.0,Mother's occupation,2831,708,31,19,0,None,0
+Stage 1,Cross-validation fold,1.0,Father's occupation,2831,708,41,20,2,175 | 182,4
+Stage 1,Cross-validation fold,2.0,Marital status,2831,708,6,5,0,None,0
+Stage 1,Cross-validation fold,2.0,Application mode,2831,708,17,14,1,57,1
+Stage 1,Cross-validation fold,2.0,Course,2831,708,17,17,0,None,0
+Stage 1,Cross-validation fold,2.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 1,Cross-validation fold,2.0,Nacionality,2831,708,18,11,1,2,1
+Stage 1,Cross-validation fold,2.0,Mother's qualification,2831,708,26,19,1,10,1
+Stage 1,Cross-validation fold,2.0,Father's qualification,2831,708,26,17,5,25 | 27 | 31 | 33 | 44,5
+Stage 1,Cross-validation fold,2.0,Mother's occupation,2831,708,27,22,4,122 | 132 | 151 | 153,6
+Stage 1,Cross-validation fold,2.0,Father's occupation,2831,708,38,27,5,102 | 112 | 132 | 143 | 161,5
+Stage 1,Cross-validation fold,3.0,Marital status,2831,708,6,5,0,None,0
+Stage 1,Cross-validation fold,3.0,Application mode,2831,708,18,14,0,None,0
+Stage 1,Cross-validation fold,3.0,Course,2831,708,17,17,0,None,0
+Stage 1,Cross-validation fold,3.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 1,Cross-validation fold,3.0,Nacionality,2831,708,17,8,2,101 | 14,3
+Stage 1,Cross-validation fold,3.0,Mother's qualification,2831,708,27,17,0,None,0
+Stage 1,Cross-validation fold,3.0,Father's qualification,2831,708,31,18,0,None,0
+Stage 1,Cross-validation fold,3.0,Mother's occupation,2831,708,31,18,0,None,0
+Stage 1,Cross-validation fold,3.0,Father's occupation,2831,708,38,24,5,101 | 122 | 134 | 183 | 194,5
+Stage 1,Cross-validation fold,4.0,Marital status,2831,708,6,6,0,None,0
+Stage 1,Cross-validation fold,4.0,Application mode,2831,708,17,15,1,27,1
+Stage 1,Cross-validation fold,4.0,Course,2831,708,17,17,0,None,0
+Stage 1,Cross-validation fold,4.0,Previous qualification,2831,708,16,14,0,None,0
+Stage 1,Cross-validation fold,4.0,Nacionality,2831,708,18,9,1,109,1
+Stage 1,Cross-validation fold,4.0,Mother's qualification,2831,708,26,17,1,44,1
+Stage 1,Cross-validation fold,4.0,Father's qualification,2831,708,30,19,1,20,1
+Stage 1,Cross-validation fold,4.0,Mother's occupation,2831,708,28,24,3,131 | 152 | 171,4
+Stage 1,Cross-validation fold,4.0,Father's occupation,2831,708,41,22,2,152 | 195,2
+Stage 1,Cross-validation fold,5.0,Marital status,2832,707,6,5,0,None,0
+Stage 1,Cross-validation fold,5.0,Application mode,2832,707,17,14,1,2,1
+Stage 1,Cross-validation fold,5.0,Course,2832,707,17,16,0,None,0
+Stage 1,Cross-validation fold,5.0,Previous qualification,2832,707,16,11,0,None,0
+Stage 1,Cross-validation fold,5.0,Nacionality,2832,707,18,11,1,13,1
+Stage 1,Cross-validation fold,5.0,Mother's qualification,2832,707,27,18,0,None,0
+Stage 1,Cross-validation fold,5.0,Father's qualification,2832,707,30,18,1,35,1
+Stage 1,Cross-validation fold,5.0,Mother's occupation,2832,707,30,21,1,125,1
+Stage 1,Cross-validation fold,5.0,Father's occupation,2832,707,38,25,5,121 | 124 | 131 | 154 | 174,5
+Stage 2,Held-out test,,Marital status,3539,885,6,5,0,None,0
+Stage 2,Held-out test,,Application mode,3539,885,18,15,0,None,0
+Stage 2,Held-out test,,Course,3539,885,17,17,0,None,0
+Stage 2,Held-out test,,Previous qualification,3539,885,16,15,1,14,1
+Stage 2,Held-out test,,Nacionality,3539,885,19,11,2,108 | 32,2
+Stage 2,Held-out test,,Mother's qualification,3539,885,27,19,2,18 | 27,2
+Stage 2,Held-out test,,Father's qualification,3539,885,31,18,3,13 | 18 | 42,3
+Stage 2,Held-out test,,Mother's occupation,3539,885,31,26,1,173,1
+Stage 2,Held-out test,,Father's occupation,3539,885,43,26,3,114 | 141 | 153,3
+Stage 2,Cross-validation fold,1.0,Marital status,2831,708,6,3,0,None,0
+Stage 2,Cross-validation fold,1.0,Application mode,2831,708,17,15,1,26,1
+Stage 2,Cross-validation fold,1.0,Course,2831,708,17,17,0,None,0
+Stage 2,Cross-validation fold,1.0,Previous qualification,2831,708,15,13,1,5,1
+Stage 2,Cross-validation fold,1.0,Nacionality,2831,708,17,9,2,105 | 17,2
+Stage 2,Cross-validation fold,1.0,Mother's qualification,2831,708,23,20,4,14 | 22 | 26 | 36,6
+Stage 2,Cross-validation fold,1.0,Father's qualification,2831,708,31,21,0,None,0
+Stage 2,Cross-validation fold,1.0,Mother's occupation,2831,708,31,19,0,None,0
+Stage 2,Cross-validation fold,1.0,Father's occupation,2831,708,41,20,2,175 | 182,4
+Stage 2,Cross-validation fold,2.0,Marital status,2831,708,6,5,0,None,0
+Stage 2,Cross-validation fold,2.0,Application mode,2831,708,17,14,1,57,1
+Stage 2,Cross-validation fold,2.0,Course,2831,708,17,17,0,None,0
+Stage 2,Cross-validation fold,2.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 2,Cross-validation fold,2.0,Nacionality,2831,708,18,11,1,2,1
+Stage 2,Cross-validation fold,2.0,Mother's qualification,2831,708,26,19,1,10,1
+Stage 2,Cross-validation fold,2.0,Father's qualification,2831,708,26,17,5,25 | 27 | 31 | 33 | 44,5
+Stage 2,Cross-validation fold,2.0,Mother's occupation,2831,708,27,22,4,122 | 132 | 151 | 153,6
+Stage 2,Cross-validation fold,2.0,Father's occupation,2831,708,38,27,5,102 | 112 | 132 | 143 | 161,5
+Stage 2,Cross-validation fold,3.0,Marital status,2831,708,6,5,0,None,0
+Stage 2,Cross-validation fold,3.0,Application mode,2831,708,18,14,0,None,0
+Stage 2,Cross-validation fold,3.0,Course,2831,708,17,17,0,None,0
+Stage 2,Cross-validation fold,3.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 2,Cross-validation fold,3.0,Nacionality,2831,708,17,8,2,101 | 14,3
+Stage 2,Cross-validation fold,3.0,Mother's qualification,2831,708,27,17,0,None,0
+Stage 2,Cross-validation fold,3.0,Father's qualification,2831,708,31,18,0,None,0
+Stage 2,Cross-validation fold,3.0,Mother's occupation,2831,708,31,18,0,None,0
+Stage 2,Cross-validation fold,3.0,Father's occupation,2831,708,38,24,5,101 | 122 | 134 | 183 | 194,5
+Stage 2,Cross-validation fold,4.0,Marital status,2831,708,6,6,0,None,0
+Stage 2,Cross-validation fold,4.0,Application mode,2831,708,17,15,1,27,1
+Stage 2,Cross-validation fold,4.0,Course,2831,708,17,17,0,None,0
+Stage 2,Cross-validation fold,4.0,Previous qualification,2831,708,16,14,0,None,0
+Stage 2,Cross-validation fold,4.0,Nacionality,2831,708,18,9,1,109,1
+Stage 2,Cross-validation fold,4.0,Mother's qualification,2831,708,26,17,1,44,1
+Stage 2,Cross-validation fold,4.0,Father's qualification,2831,708,30,19,1,20,1
+Stage 2,Cross-validation fold,4.0,Mother's occupation,2831,708,28,24,3,131 | 152 | 171,4
+Stage 2,Cross-validation fold,4.0,Father's occupation,2831,708,41,22,2,152 | 195,2
+Stage 2,Cross-validation fold,5.0,Marital status,2832,707,6,5,0,None,0
+Stage 2,Cross-validation fold,5.0,Application mode,2832,707,17,14,1,2,1
+Stage 2,Cross-validation fold,5.0,Course,2832,707,17,16,0,None,0
+Stage 2,Cross-validation fold,5.0,Previous qualification,2832,707,16,11,0,None,0
+Stage 2,Cross-validation fold,5.0,Nacionality,2832,707,18,11,1,13,1
+Stage 2,Cross-validation fold,5.0,Mother's qualification,2832,707,27,18,0,None,0
+Stage 2,Cross-validation fold,5.0,Father's qualification,2832,707,30,18,1,35,1
+Stage 2,Cross-validation fold,5.0,Mother's occupation,2832,707,30,21,1,125,1
+Stage 2,Cross-validation fold,5.0,Father's occupation,2832,707,38,25,5,121 | 124 | 131 | 154 | 174,5
+Stage 3,Held-out test,,Marital status,3539,885,6,5,0,None,0
+Stage 3,Held-out test,,Application mode,3539,885,18,15,0,None,0
+Stage 3,Held-out test,,Course,3539,885,17,17,0,None,0
+Stage 3,Held-out test,,Previous qualification,3539,885,16,15,1,14,1
+Stage 3,Held-out test,,Nacionality,3539,885,19,11,2,108 | 32,2
+Stage 3,Held-out test,,Mother's qualification,3539,885,27,19,2,18 | 27,2
+Stage 3,Held-out test,,Father's qualification,3539,885,31,18,3,13 | 18 | 42,3
+Stage 3,Held-out test,,Mother's occupation,3539,885,31,26,1,173,1
+Stage 3,Held-out test,,Father's occupation,3539,885,43,26,3,114 | 141 | 153,3
+Stage 3,Cross-validation fold,1.0,Marital status,2831,708,6,3,0,None,0
+Stage 3,Cross-validation fold,1.0,Application mode,2831,708,17,15,1,26,1
+Stage 3,Cross-validation fold,1.0,Course,2831,708,17,17,0,None,0
+Stage 3,Cross-validation fold,1.0,Previous qualification,2831,708,15,13,1,5,1
+Stage 3,Cross-validation fold,1.0,Nacionality,2831,708,17,9,2,105 | 17,2
+Stage 3,Cross-validation fold,1.0,Mother's qualification,2831,708,23,20,4,14 | 22 | 26 | 36,6
+Stage 3,Cross-validation fold,1.0,Father's qualification,2831,708,31,21,0,None,0
+Stage 3,Cross-validation fold,1.0,Mother's occupation,2831,708,31,19,0,None,0
+Stage 3,Cross-validation fold,1.0,Father's occupation,2831,708,41,20,2,175 | 182,4
+Stage 3,Cross-validation fold,2.0,Marital status,2831,708,6,5,0,None,0
+Stage 3,Cross-validation fold,2.0,Application mode,2831,708,17,14,1,57,1
+Stage 3,Cross-validation fold,2.0,Course,2831,708,17,17,0,None,0
+Stage 3,Cross-validation fold,2.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 3,Cross-validation fold,2.0,Nacionality,2831,708,18,11,1,2,1
+Stage 3,Cross-validation fold,2.0,Mother's qualification,2831,708,26,19,1,10,1
+Stage 3,Cross-validation fold,2.0,Father's qualification,2831,708,26,17,5,25 | 27 | 31 | 33 | 44,5
+Stage 3,Cross-validation fold,2.0,Mother's occupation,2831,708,27,22,4,122 | 132 | 151 | 153,6
+Stage 3,Cross-validation fold,2.0,Father's occupation,2831,708,38,27,5,102 | 112 | 132 | 143 | 161,5
+Stage 3,Cross-validation fold,3.0,Marital status,2831,708,6,5,0,None,0
+Stage 3,Cross-validation fold,3.0,Application mode,2831,708,18,14,0,None,0
+Stage 3,Cross-validation fold,3.0,Course,2831,708,17,17,0,None,0
+Stage 3,Cross-validation fold,3.0,Previous qualification,2831,708,16,13,0,None,0
+Stage 3,Cross-validation fold,3.0,Nacionality,2831,708,17,8,2,101 | 14,3
+Stage 3,Cross-validation fold,3.0,Mother's qualification,2831,708,27,17,0,None,0
+Stage 3,Cross-validation fold,3.0,Father's qualification,2831,708,31,18,0,None,0
+Stage 3,Cross-validation fold,3.0,Mother's occupation,2831,708,31,18,0,None,0
+Stage 3,Cross-validation fold,3.0,Father's occupation,2831,708,38,24,5,101 | 122 | 134 | 183 | 194,5
+Stage 3,Cross-validation fold,4.0,Marital status,2831,708,6,6,0,None,0
+Stage 3,Cross-validation fold,4.0,Application mode,2831,708,17,15,1,27,1
+Stage 3,Cross-validation fold,4.0,Course,2831,708,17,17,0,None,0
+Stage 3,Cross-validation fold,4.0,Previous qualification,2831,708,16,14,0,None,0
+Stage 3,Cross-validation fold,4.0,Nacionality,2831,708,18,9,1,109,1
+Stage 3,Cross-validation fold,4.0,Mother's qualification,2831,708,26,17,1,44,1
+Stage 3,Cross-validation fold,4.0,Father's qualification,2831,708,30,19,1,20,1
+Stage 3,Cross-validation fold,4.0,Mother's occupation,2831,708,28,24,3,131 | 152 | 171,4
+Stage 3,Cross-validation fold,4.0,Father's occupation,2831,708,41,22,2,152 | 195,2
+Stage 3,Cross-validation fold,5.0,Marital status,2832,707,6,5,0,None,0
+Stage 3,Cross-validation fold,5.0,Application mode,2832,707,17,14,1,2,1
+Stage 3,Cross-validation fold,5.0,Course,2832,707,17,16,0,None,0
+Stage 3,Cross-validation fold,5.0,Previous qualification,2832,707,16,11,0,None,0
+Stage 3,Cross-validation fold,5.0,Nacionality,2832,707,18,11,1,13,1
+Stage 3,Cross-validation fold,5.0,Mother's qualification,2832,707,27,18,0,None,0
+Stage 3,Cross-validation fold,5.0,Father's qualification,2832,707,30,18,1,35,1
+Stage 3,Cross-validation fold,5.0,Mother's occupation,2832,707,30,21,1,125,1
+Stage 3,Cross-validation fold,5.0,Father's occupation,2832,707,38,25,5,121 | 124 | 131 | 154 | 174,5

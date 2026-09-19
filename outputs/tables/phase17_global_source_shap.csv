@@ -1,0 +1,262 @@
+Stage,Model,Source_Feature,Mean_Abs_SHAP,Importance_Share,SHAP_Rank
+Stage 1,Gradient Boosting,Tuition fees up to date,0.6374998402655481,0.2228423704456517,1
+Stage 1,Gradient Boosting,Age at enrollment,0.3868652383504906,0.13523135428729666,2
+Stage 1,Gradient Boosting,Scholarship holder,0.3394885272239973,0.11867050525720288,3
+Stage 1,Gradient Boosting,Course,0.29130277229604845,0.10182684950760368,4
+Stage 1,Gradient Boosting,Gender,0.20650804736417228,0.07218628128842532,5
+Stage 1,Gradient Boosting,Application mode,0.15415381657342966,0.05388550667582608,6
+Stage 1,Gradient Boosting,Debtor,0.13117618665909367,0.04585352110669924,7
+Stage 1,Gradient Boosting,Mother's occupation,0.13073235169345138,0.04569837559985614,8
+Stage 1,Gradient Boosting,Unemployment rate,0.08956245087671379,0.03130715899156238,9
+Stage 1,Gradient Boosting,Admission grade,0.07859484826329782,0.02747335949843391,10
+Stage 1,Gradient Boosting,Previous qualification (grade),0.0765550560784304,0.026760336377513554,11
+Stage 1,Gradient Boosting,Mother's qualification,0.06787334271873546,0.02372558489616694,12
+Stage 1,Gradient Boosting,Father's qualification,0.05857253783372691,0.020474425795069025,13
+Stage 1,Gradient Boosting,GDP,0.05274799386442009,0.018438417151765526,14
+Stage 1,Gradient Boosting,Father's occupation,0.041105395423613585,0.014368668312902356,15
+Stage 1,Gradient Boosting,Marital status,0.026177583820402497,0.009150551047429784,16
+Stage 1,Gradient Boosting,Application order,0.02499506299373365,0.008737192913870925,17
+Stage 1,Gradient Boosting,Inflation rate,0.02480508035098058,0.008670783199263015,18
+Stage 1,Gradient Boosting,Nacionality,0.010800538877659995,0.0037754012370977553,19
+Stage 1,Gradient Boosting,Previous qualification,0.008867565235931091,0.003099717258647806,20
+Stage 1,Gradient Boosting,Displaced,0.008350144922589958,0.0029188494970282253,21
+Stage 1,Gradient Boosting,Daytime/evening attendance,0.008300162262636072,0.002901377721002896,22
+Stage 1,Gradient Boosting,Educational special needs,0.0057312924160503025,0.0020034119336843023,23
+Stage 1,Logistic Regression,Tuition fees up to date,0.5413015780483427,0.1443216263129391,1
+Stage 1,Logistic Regression,Course,0.44344770494972024,0.11823186289948033,2
+Stage 1,Logistic Regression,Application mode,0.3883385495918354,0.10353868030308291,3
+Stage 1,Logistic Regression,Scholarship holder,0.36642701014260975,0.09769663376825839,4
+Stage 1,Logistic Regression,Gender,0.26836356175435555,0.07155099346867688,5
+Stage 1,Logistic Regression,Mother's occupation,0.240090786453806,0.06401291658653042,6
+Stage 1,Logistic Regression,Mother's qualification,0.17821854000153758,0.04751656114670041,7
+Stage 1,Logistic Regression,Unemployment rate,0.16557020011527326,0.04414426544949212,8
+Stage 1,Logistic Regression,Father's occupation,0.14727199474321637,0.03926560470842263,9
+Stage 1,Logistic Regression,Debtor,0.14547331253175344,0.03878604072319571,10
+Stage 1,Logistic Regression,Admission grade,0.14520850634635266,0.038715438196093244,11
+Stage 1,Logistic Regression,Age at enrollment,0.1305908651552003,0.03481808811414372,12
+Stage 1,Logistic Regression,Father's qualification,0.09357741489316522,0.024949575710152695,13
+Stage 1,Logistic Regression,Marital status,0.08625339761968016,0.0229968489365407,14
+Stage 1,Logistic Regression,Daytime/evening attendance,0.07168365643013622,0.0191122699352842,15
+Stage 1,Logistic Regression,Previous qualification (grade),0.0696600606668134,0.018572739582138547,16
+Stage 1,Logistic Regression,Previous qualification,0.05840593079052189,0.01557216764155874,17
+Stage 1,Logistic Regression,Application order,0.05308245262738145,0.014152823864812477,18
+Stage 1,Logistic Regression,Displaced,0.040313917314965704,0.010748481707588142,19
+Stage 1,Logistic Regression,Nacionality,0.038727466599311394,0.010325502805191318,20
+Stage 1,Logistic Regression,GDP,0.03540180638663229,0.009438816510670266,21
+Stage 1,Logistic Regression,Inflation rate,0.029826478578120038,0.007952324674726676,22
+Stage 1,Logistic Regression,Educational special needs,0.013426381838088999,0.0035797369543202383,23
+Stage 1,Random Forest,Tuition fees up to date,0.04906424811298286,0.16190354832158366,1
+Stage 1,Random Forest,Scholarship holder,0.040149212255399636,0.13248546908325237,2
+Stage 1,Random Forest,Age at enrollment,0.03711369446599059,0.12246878442996062,3
+Stage 1,Random Forest,Application mode,0.03060849415380583,0.10100274645746195,4
+Stage 1,Random Forest,Gender,0.02665691085836317,0.08796320378379825,5
+Stage 1,Random Forest,Course,0.023743094436592893,0.07834811263319165,6
+Stage 1,Random Forest,Debtor,0.02086591914384245,0.06885393088262638,7
+Stage 1,Random Forest,Previous qualification (grade),0.010623961317873166,0.03505723822841526,8
+Stage 1,Random Forest,Previous qualification,0.008511296973554912,0.02808581062251441,9
+Stage 1,Random Forest,Mother's qualification,0.007935206159120871,0.026184810391194004,10
+Stage 1,Random Forest,Admission grade,0.007904349868991746,0.026082989960797484,11
+Stage 1,Random Forest,Mother's occupation,0.007874879694305866,0.025985743472064716,12
+Stage 1,Random Forest,Father's qualification,0.007117087356753752,0.02348515958340364,13
+Stage 1,Random Forest,Father's occupation,0.005476951511714547,0.018072994447808684,14
+Stage 1,Random Forest,GDP,0.0051304817411585366,0.016929704019511264,15
+Stage 1,Random Forest,Displaced,0.00469258476978042,0.015484719612491846,16
+Stage 1,Random Forest,Unemployment rate,0.002634853779562968,0.008694562591429993,17
+Stage 1,Random Forest,Inflation rate,0.0019805800643316125,0.00653557228497359,18
+Stage 1,Random Forest,Marital status,0.0019686854458293474,0.006496322097402924,19
+Stage 1,Random Forest,Application order,0.0012842654911886142,0.004237854405342018,20
+Stage 1,Random Forest,Daytime/evening attendance,0.0009035261137612631,0.0029814801906737306,21
+Stage 1,Random Forest,Nacionality,0.0006273437518511366,0.002070126076490265,22
+Stage 1,Random Forest,Educational special needs,0.00017852946816261837,0.0005891164236112018,23
+Stage 2,Gradient Boosting,Curricular units 1st sem (approved),1.0532618229130175,0.3013830777577549,1
+Stage 2,Gradient Boosting,Tuition fees up to date,0.42824636601874805,0.12253952912899141,2
+Stage 2,Gradient Boosting,Age at enrollment,0.3067720790944793,0.08778056068901584,3
+Stage 2,Gradient Boosting,Curricular units 1st sem (grade),0.2814681884691132,0.08054003960487868,4
+Stage 2,Gradient Boosting,Curricular units 1st sem (enrolled),0.2527899297710703,0.07233396806300428,5
+Stage 2,Gradient Boosting,Gender,0.16370466291559604,0.046842878075979255,6
+Stage 2,Gradient Boosting,Scholarship holder,0.16056932073108648,0.0459457231076374,7
+Stage 2,Gradient Boosting,Course,0.13564655616197924,0.03881425842462498,8
+Stage 2,Gradient Boosting,Debtor,0.11721489105915481,0.03354017382757205,9
+Stage 2,Gradient Boosting,Unemployment rate,0.09997455970252236,0.028606980567557238,10
+Stage 2,Gradient Boosting,Application mode,0.06263450712335648,0.01792240079344083,11
+Stage 2,Gradient Boosting,Curricular units 1st sem (credited),0.0601516489026165,0.01721194928373624,12
+Stage 2,Gradient Boosting,Mother's qualification,0.054502437510456275,0.015595469241229256,13
+Stage 2,Gradient Boosting,Mother's occupation,0.051257223579721733,0.0146668752856237,14
+Stage 2,Gradient Boosting,Admission grade,0.03958041289491417,0.011325642302500025,15
+Stage 2,Gradient Boosting,Curricular units 1st sem (evaluations),0.037498036071756516,0.01072978558163367,16
+Stage 2,Gradient Boosting,Displaced,0.03465265994070405,0.009915602254089039,17
+Stage 2,Gradient Boosting,Father's occupation,0.02962984384744583,0.008478360591792161,18
+Stage 2,Gradient Boosting,Application order,0.02742865271153465,0.007848506034414183,19
+Stage 2,Gradient Boosting,Previous qualification (grade),0.02577797288450901,0.007376176214953226,20
+Stage 2,Gradient Boosting,Father's qualification,0.02562416337159911,0.0073321647608391854,21
+Stage 2,Gradient Boosting,GDP,0.02190423478306463,0.006267734718220837,22
+Stage 2,Gradient Boosting,Nacionality,0.010723105975482419,0.0030683374368163686,23
+Stage 2,Gradient Boosting,Curricular units 1st sem (without evaluations),0.007362400298250409,0.0021066963724503725,24
+Stage 2,Gradient Boosting,Inflation rate,0.003644703643762262,0.0010429049812457588,25
+Stage 2,Gradient Boosting,Previous qualification,0.002569082441166199,0.0007351239324241777,26
+Stage 2,Gradient Boosting,Marital status,0.00017152625078671472,4.908096757497095e-05,27
+Stage 2,Gradient Boosting,Daytime/evening attendance,0.0,0.0,28
+Stage 2,Gradient Boosting,Educational special needs,0.0,0.0,28
+Stage 2,Logistic Regression,Curricular units 1st sem (approved),1.7665387339717404,0.26704269659476404,1
+Stage 2,Logistic Regression,Curricular units 1st sem (enrolled),0.6006116167872306,0.09079277044347496,2
+Stage 2,Logistic Regression,Tuition fees up to date,0.5008893155479486,0.07571803037610021,3
+Stage 2,Logistic Regression,Course,0.4108232006964087,0.06210298887191903,4
+Stage 2,Logistic Regression,Curricular units 1st sem (credited),0.3308145124661064,0.050008300289578846,5
+Stage 2,Logistic Regression,Unemployment rate,0.3177865236976976,0.04803889583497047,6
+Stage 2,Logistic Regression,Application mode,0.2706021587068181,0.040906167963248856,7
+Stage 2,Logistic Regression,Age at enrollment,0.22624807253288876,0.03420128538744902,8
+Stage 2,Logistic Regression,Gender,0.22339020287014588,0.033769269260896635,9
+Stage 2,Logistic Regression,Mother's qualification,0.21913687051135067,0.033126304959710466,10
+Stage 2,Logistic Regression,Father's occupation,0.21823633121781744,0.03299017296514391,11
+Stage 2,Logistic Regression,Mother's occupation,0.1985259175941469,0.030010605122196537,12
+Stage 2,Logistic Regression,Scholarship holder,0.19074611744581646,0.028834554594333196,13
+Stage 2,Logistic Regression,Displaced,0.17886339515456157,0.027038276854977276,14
+Stage 2,Logistic Regression,Debtor,0.15289345265856696,0.02311247362113078,15
+Stage 2,Logistic Regression,Father's qualification,0.08657409107635218,0.013087162082368256,16
+Stage 2,Logistic Regression,Curricular units 1st sem (grade),0.08625230568642561,0.013038518689161931,17
+Stage 2,Logistic Regression,Marital status,0.08387855651739902,0.01267968569730828,18
+Stage 2,Logistic Regression,Previous qualification (grade),0.077967515766393,0.01178613027648758,19
+Stage 2,Logistic Regression,Curricular units 1st sem (evaluations),0.06898594526044691,0.010428411500533351,20
+Stage 2,Logistic Regression,GDP,0.06752710834335648,0.010207883222981272,21
+Stage 2,Logistic Regression,Application order,0.0661429969984486,0.009998651000203687,22
+Stage 2,Logistic Regression,Inflation rate,0.05394837819908429,0.008155224742118852,23
+Stage 2,Logistic Regression,Daytime/evening attendance,0.05257241148558014,0.007947223720384866,24
+Stage 2,Logistic Regression,Curricular units 1st sem (without evaluations),0.04760467605941186,0.0071962651149142095,25
+Stage 2,Logistic Regression,Admission grade,0.04534603818929319,0.00685483317466376,26
+Stage 2,Logistic Regression,Nacionality,0.034560514711479494,0.005224415896902795,27
+Stage 2,Logistic Regression,Previous qualification,0.03379841778432412,0.005109211845850602,28
+Stage 2,Logistic Regression,Educational special needs,0.003926711185699304,0.0005935898962262664,29
+Stage 2,Random Forest,Curricular units 1st sem (approved),0.10205943309897042,0.2094806843547326,1
+Stage 2,Random Forest,Curricular units 1st sem (grade),0.06251210579737058,0.12830836215002198,2
+Stage 2,Random Forest,Tuition fees up to date,0.05005434359785833,0.10273835385346726,3
+Stage 2,Random Forest,Age at enrollment,0.035916830484931744,0.07372059594472043,4
+Stage 2,Random Forest,Scholarship holder,0.0292062196815934,0.059946824125329826,5
+Stage 2,Random Forest,Application mode,0.023755202906405197,0.04875841468758359,6
+Stage 2,Random Forest,Debtor,0.023113412286732703,0.04744111618670843,7
+Stage 2,Random Forest,Course,0.021858212742386897,0.0448647736422978,8
+Stage 2,Random Forest,Gender,0.019956552912642762,0.04096154793891375,9
+Stage 2,Random Forest,Curricular units 1st sem (evaluations),0.018192186395538455,0.03734012173427109,10
+Stage 2,Random Forest,Curricular units 1st sem (enrolled),0.010902124622277402,0.022377005803869098,11
+Stage 2,Random Forest,Mother's qualification,0.010376095555182194,0.021297312084046765,12
+Stage 2,Random Forest,Mother's occupation,0.010202726688196065,0.020941466202884163,13
+Stage 2,Random Forest,Father's qualification,0.009392425454158455,0.019278293560380085,14
+Stage 2,Random Forest,Previous qualification (grade),0.007847893667523712,0.016108086105297247,15
+Stage 2,Random Forest,Father's occupation,0.00780501124249353,0.01602006837416404,16
+Stage 2,Random Forest,Previous qualification,0.007686532872465018,0.015776887226854136,17
+Stage 2,Random Forest,Admission grade,0.007179414810587453,0.014736009030443406,18
+Stage 2,Random Forest,Unemployment rate,0.005275863829631424,0.010828901670674872,19
+Stage 2,Random Forest,GDP,0.0040284754937944854,0.008268591914752182,20
+Stage 2,Random Forest,Inflation rate,0.003594933622252033,0.007378731514890128,21
+Stage 2,Random Forest,Application order,0.00340423538618787,0.0069873164757998886,22
+Stage 2,Random Forest,Displaced,0.0031152233674565945,0.006394108835582443,23
+Stage 2,Random Forest,Curricular units 1st sem (without evaluations),0.0027223455176148,0.00558771281364035,24
+Stage 2,Random Forest,Curricular units 1st sem (credited),0.002645833147863432,0.005430668402453232,25
+Stage 2,Random Forest,Marital status,0.0020189418840106774,0.004143951369246401,26
+Stage 2,Random Forest,Daytime/evening attendance,0.0015088377110871888,0.00309694407171816,27
+Stage 2,Random Forest,Nacionality,0.0006334188612956011,0.0013001151634726897,28
+Stage 2,Random Forest,Educational special needs,0.00023728436748360373,0.0004870347617837847,29
+Stage 3,Gradient Boosting,Curricular units 2nd sem (approved),1.1198135074599598,0.3220258833732653,1
+Stage 3,Gradient Boosting,Tuition fees up to date,0.3906398645971934,0.11233669413674398,2
+Stage 3,Gradient Boosting,Curricular units 1st sem (approved),0.28939412472378795,0.08322135608865475,3
+Stage 3,Gradient Boosting,Age at enrollment,0.23955623474945578,0.06888942453261591,4
+Stage 3,Gradient Boosting,Curricular units 2nd sem (grade),0.2379988920796452,0.06844157795314557,5
+Stage 3,Gradient Boosting,Curricular units 2nd sem (enrolled),0.13817831771309028,0.039736076166397426,6
+Stage 3,Gradient Boosting,Scholarship holder,0.12371033546599053,0.03557550413122075,7
+Stage 3,Gradient Boosting,Course,0.11722756716276649,0.03371124800674766,8
+Stage 3,Gradient Boosting,Gender,0.08172860182616533,0.023502775260883173,9
+Stage 3,Gradient Boosting,Debtor,0.08151891695303998,0.02344247597350329,10
+Stage 3,Gradient Boosting,Curricular units 2nd sem (credited),0.08038116092472125,0.02311529034157279,11
+Stage 3,Gradient Boosting,Curricular units 1st sem (grade),0.06897862830568817,0.01983625270282749,12
+Stage 3,Gradient Boosting,Unemployment rate,0.058968008282376284,0.01695748875271826,13
+Stage 3,Gradient Boosting,Application mode,0.05753716327590098,0.016546019232024953,14
+Stage 3,Gradient Boosting,Curricular units 1st sem (enrolled),0.04133812103178945,0.011887644552929223,15
+Stage 3,Gradient Boosting,Mother's qualification,0.04053184278515332,0.011655782316147861,16
+Stage 3,Gradient Boosting,Admission grade,0.04042742441488144,0.011625754621622662,17
+Stage 3,Gradient Boosting,Curricular units 2nd sem (evaluations),0.037567010302048384,0.010803182492101037,18
+Stage 3,Gradient Boosting,Mother's occupation,0.03547551666623523,0.010201729588420666,19
+Stage 3,Gradient Boosting,Previous qualification (grade),0.035392079207009756,0.010177735395338953,20
+Stage 3,Gradient Boosting,Application order,0.03403910130573818,0.009788658195484704,21
+Stage 3,Gradient Boosting,Father's occupation,0.028999510461910426,0.00833941804744918,22
+Stage 3,Gradient Boosting,GDP,0.025330376653923098,0.0072842815913691655,23
+Stage 3,Gradient Boosting,Displaced,0.014375687196815482,0.004134030655830229,24
+Stage 3,Gradient Boosting,Father's qualification,0.014053947431954624,0.00404150763185757,25
+Stage 3,Gradient Boosting,Curricular units 1st sem (credited),0.012117693691861957,0.003484697219289454,26
+Stage 3,Gradient Boosting,Inflation rate,0.009189780150965927,0.0026427142121490414,27
+Stage 3,Gradient Boosting,Curricular units 1st sem (without evaluations),0.007686767340783895,0.0022104913244129698,28
+Stage 3,Gradient Boosting,Nacionality,0.005210336164331418,0.001498341549564216,29
+Stage 3,Gradient Boosting,Previous qualification,0.004323876540249127,0.0012434214743747857,30
+Stage 3,Gradient Boosting,Curricular units 1st sem (evaluations),0.004286784013145454,0.0012327547394876519,31
+Stage 3,Gradient Boosting,Curricular units 2nd sem (without evaluations),0.0010583978100307855,0.0003043645102197341,32
+Stage 3,Gradient Boosting,Educational special needs,0.00020002859278205062,5.752242124374824e-05,33
+Stage 3,Gradient Boosting,Marital status,0.0001568975424912179,4.5119182241722926e-05,34
+Stage 3,Gradient Boosting,Daytime/evening attendance,9.672832805821656e-06,2.781626144233661e-06,35
+Stage 3,Logistic Regression,Curricular units 2nd sem (approved),1.277678484428335,0.22117224066284888,1
+Stage 3,Logistic Regression,Curricular units 1st sem (approved),0.6706983458536977,0.11610108315136855,2
+Stage 3,Logistic Regression,Curricular units 2nd sem (enrolled),0.48313555041019296,0.08363306851481596,3
+Stage 3,Logistic Regression,Tuition fees up to date,0.3464692252496749,0.059975475679609466,4
+Stage 3,Logistic Regression,Course,0.2515865680348065,0.043550835089651616,5
+Stage 3,Logistic Regression,Curricular units 1st sem (enrolled),0.21555865903624075,0.03731423217528443,6
+Stage 3,Logistic Regression,Curricular units 2nd sem (grade),0.19578395161054393,0.033891135987082974,7
+Stage 3,Logistic Regression,Unemployment rate,0.1942147455396605,0.0336194989305082,8
+Stage 3,Logistic Regression,Application mode,0.18949313702714718,0.03280216597313858,9
+Stage 3,Logistic Regression,Age at enrollment,0.17916727943567656,0.031014710765819443,10
+Stage 3,Logistic Regression,Curricular units 2nd sem (credited),0.17379920843892774,0.030085472068558758,11
+Stage 3,Logistic Regression,Father's occupation,0.1546210587883895,0.026765642877042865,12
+Stage 3,Logistic Regression,Mother's qualification,0.1490598206795949,0.02580296603120707,13
+Stage 3,Logistic Regression,Scholarship holder,0.14755726494892957,0.02554286646647131,14
+Stage 3,Logistic Regression,Gender,0.1319147837980684,0.022835078358721894,15
+Stage 3,Logistic Regression,Debtor,0.12269808292878348,0.02123962347110904,16
+Stage 3,Logistic Regression,Mother's occupation,0.11719298376348344,0.02028666454419609,17
+Stage 3,Logistic Regression,Curricular units 1st sem (grade),0.10618184591990572,0.01838058405619193,18
+Stage 3,Logistic Regression,Displaced,0.10487294664915932,0.0181540073484825,19
+Stage 3,Logistic Regression,Curricular units 1st sem (credited),0.09166971092156878,0.01586846425962197,20
+Stage 3,Logistic Regression,Application order,0.08127358772879215,0.014068845741523341,21
+Stage 3,Logistic Regression,Father's qualification,0.07231390479129751,0.012517881883975865,22
+Stage 3,Logistic Regression,Marital status,0.04784529376971504,0.008282248591635939,23
+Stage 3,Logistic Regression,Inflation rate,0.04328374753696565,0.007492623178450899,24
+Stage 3,Logistic Regression,Previous qualification,0.037124381250561625,0.006426407491773897,25
+Stage 3,Logistic Regression,Curricular units 2nd sem (without evaluations),0.03615248554438625,0.006258167708725827,26
+Stage 3,Logistic Regression,Curricular units 2nd sem (evaluations),0.03191724125936873,0.005525026719276543,27
+Stage 3,Logistic Regression,Daytime/evening attendance,0.028164325887504373,0.004875379165584921,28
+Stage 3,Logistic Regression,Curricular units 1st sem (evaluations),0.02640255831893556,0.004570408795169828,29
+Stage 3,Logistic Regression,Previous qualification (grade),0.025174473500857327,0.004357821454732676,30
+Stage 3,Logistic Regression,Admission grade,0.01680096784268021,0.0029083276805217874,31
+Stage 3,Logistic Regression,Curricular units 1st sem (without evaluations),0.01312006084797084,0.002271145120422813,32
+Stage 3,Logistic Regression,Nacionality,0.007371044504787799,0.0012759629664413736,33
+Stage 3,Logistic Regression,Educational special needs,0.0043155599542533335,0.0007470440149300395,34
+Stage 3,Logistic Regression,GDP,0.00223502260659655,0.0003868930751027346,35
+Stage 3,Random Forest,Curricular units 2nd sem (approved),0.09747326677627276,0.1933321675219765,1
+Stage 3,Random Forest,Curricular units 2nd sem (grade),0.06071882603534735,0.12043201828607472,2
+Stage 3,Random Forest,Curricular units 1st sem (approved),0.05682774346486733,0.1127142978049858,3
+Stage 3,Random Forest,Tuition fees up to date,0.04033620436554069,0.08000435480939144,4
+Stage 3,Random Forest,Curricular units 1st sem (grade),0.029363483644310913,0.058240645119453656,5
+Stage 3,Random Forest,Age at enrollment,0.027636029079340686,0.05481434633634235,6
+Stage 3,Random Forest,Application mode,0.018097733410030972,0.035895729599655576,7
+Stage 3,Random Forest,Scholarship holder,0.01771823598261485,0.03514302003489077,8
+Stage 3,Random Forest,Debtor,0.01710152565309822,0.03391981341955995,9
+Stage 3,Random Forest,Course,0.015838245682545528,0.03141417610000001,10
+Stage 3,Random Forest,Curricular units 2nd sem (evaluations),0.014797764480611252,0.029350446292959305,11
+Stage 3,Random Forest,Gender,0.012668202104712761,0.02512659165442855,12
+Stage 3,Random Forest,Mother's qualification,0.008575556358827322,0.01700908314034811,13
+Stage 3,Random Forest,Curricular units 1st sem (evaluations),0.008447143877580856,0.016754384963531717,14
+Stage 3,Random Forest,Curricular units 2nd sem (enrolled),0.007661394630851164,0.015195900160229833,15
+Stage 3,Random Forest,Mother's occupation,0.007362950682630863,0.014603955134670348,16
+Stage 3,Random Forest,Curricular units 1st sem (enrolled),0.007124548819280443,0.014131099853348901,17
+Stage 3,Random Forest,Father's qualification,0.006742995503931995,0.013374312562626148,18
+Stage 3,Random Forest,Father's occupation,0.006451131489800114,0.012795418427444492,19
+Stage 3,Random Forest,Previous qualification (grade),0.006173113324867532,0.012243986673748694,20
+Stage 3,Random Forest,Previous qualification,0.005229772502819858,0.01037292877377037,21
+Stage 3,Random Forest,Admission grade,0.004676323409873594,0.009275196890032795,22
+Stage 3,Random Forest,Unemployment rate,0.004188458509053479,0.008307547175881565,23
+Stage 3,Random Forest,GDP,0.0030975525186195283,0.0061438029343205145,24
+Stage 3,Random Forest,Inflation rate,0.002843637449171274,0.005640178172716917,25
+Stage 3,Random Forest,Curricular units 1st sem (credited),0.002621627242563921,0.005199834723944257,26
+Stage 3,Random Forest,Application order,0.00254615249389811,0.005050135250074879,27
+Stage 3,Random Forest,Displaced,0.002524469836232095,0.00500712904598582,28
+Stage 3,Random Forest,Curricular units 2nd sem (credited),0.0024786161024970953,0.004916181014539304,29
+Stage 3,Random Forest,Curricular units 2nd sem (without evaluations),0.0019094043380303914,0.0037871848513559795,30
+Stage 3,Random Forest,Curricular units 1st sem (without evaluations),0.0016638556935670986,0.0033001543738083914,31
+Stage 3,Random Forest,Marital status,0.0014926657871985212,0.0029606098325129135,32
+Stage 3,Random Forest,Daytime/evening attendance,0.0009781723924887967,0.0019401441554644894,33
+Stage 3,Random Forest,Nacionality,0.0005698010694122153,0.0011301650129224917,34
+Stage 3,Random Forest,Educational special needs,0.00023850502548386124,0.00047305989700248294,35

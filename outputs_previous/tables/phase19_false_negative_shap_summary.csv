@@ -1,0 +1,25 @@
+Source_Feature,Mean_Signed_SHAP,Mean_Abs_SHAP,Model
+Curricular units 2nd sem (approved),-0.24721634794266883,1.208558647298256,Logistic Regression
+Curricular units 2nd sem (enrolled),-0.11802799001978694,0.7975162316290273,Logistic Regression
+Curricular units 1st sem (approved),-0.12359916500745209,0.6967492753074956,Logistic Regression
+Curricular units 1st sem (enrolled),-0.03619998891002921,0.3538701183648285,Logistic Regression
+Course,0.04890016556652339,0.2638282123189468,Logistic Regression
+Curricular units 2nd sem (credited),0.07894322825462202,0.23631159959074288,Logistic Regression
+Tuition fees up to date,-0.11895643091080355,0.22952689932920053,Logistic Regression
+Unemployment rate,0.011814561583291796,0.19123464083734484,Logistic Regression
+Curricular units 2nd sem (approved),-0.03064284607773091,0.08202246263514607,Random Forest
+Curricular units 2nd sem (grade),-0.02072363026800328,0.05288503288651816,Random Forest
+Curricular units 1st sem (approved),-0.02284175426063768,0.05056974772841776,Random Forest
+Tuition fees up to date,-0.01124301630347278,0.04169298080761504,Random Forest
+Age at enrollment,-0.009504244126253053,0.030962348230638294,Random Forest
+Curricular units 1st sem (grade),-0.011189252151557494,0.022883274240851126,Random Forest
+Course,-0.00195661149912472,0.020343396523761863,Random Forest
+Application mode,-0.008224329185123877,0.019751762056828086,Random Forest
+Curricular units 2nd sem (approved),-0.47439710869713175,0.97687436875734,Gradient Boosting
+Curricular units 1st sem (approved),-0.055746889019838486,0.2873042722084646,Gradient Boosting
+Tuition fees up to date,-0.21250550035092097,0.28362188968141167,Gradient Boosting
+Age at enrollment,-0.0671458823116384,0.2683179664969254,Gradient Boosting
+Curricular units 2nd sem (grade),-0.07653487297115276,0.21865523803873682,Gradient Boosting
+Course,-0.041390261631059286,0.19872193359421292,Gradient Boosting
+Curricular units 2nd sem (enrolled),-0.009257786375541067,0.18049950771132922,Gradient Boosting
+Curricular units 2nd sem (credited),0.06630149669448057,0.13639209966791405,Gradient Boosting

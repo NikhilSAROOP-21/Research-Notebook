@@ -1,0 +1,4 @@
+Model,Candidates_Per_Stage,Prediction_Stages,Candidate_Evaluations,Cross_Validation_Fits
+Logistic Regression,4,3,12,60
+Random Forest,8,3,24,120
+Gradient Boosting,8,3,24,120

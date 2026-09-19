@@ -1,0 +1,37 @@
+Variable,Semantic_Type,Conceptual_Group,First_Available_Stage,Excluded_From_Primary_Model,Stage_1_Model,Stage_2_Model,Stage_3_Model
+Marital status,Nominal categorical,Demographic,Stage 1,False,True,True,True
+Application mode,Nominal categorical,Application / enrolment,Stage 1,False,True,True,True
+Application order,Ordinal discrete,Application / enrolment,Stage 1,False,True,True,True
+Course,Nominal categorical,Application / enrolment,Stage 1,False,True,True,True
+Daytime/evening attendance,Binary categorical,Application / enrolment,Stage 1,False,True,True,True
+Previous qualification,Nominal categorical,Prior academic / enrolment,Stage 1,False,True,True,True
+Previous qualification (grade),Continuous numerical,Prior academic / enrolment,Stage 1,False,True,True,True
+Nacionality,Nominal categorical,Demographic,Stage 1,False,True,True,True
+Mother's qualification,Nominal categorical,Socioeconomic / family background,Stage 1,False,True,True,True
+Father's qualification,Nominal categorical,Socioeconomic / family background,Stage 1,False,True,True,True
+Mother's occupation,Nominal categorical,Socioeconomic / family background,Stage 1,False,True,True,True
+Father's occupation,Nominal categorical,Socioeconomic / family background,Stage 1,False,True,True,True
+Admission grade,Continuous numerical,Prior academic / enrolment,Stage 1,False,True,True,True
+Displaced,Binary categorical,Demographic / socioeconomic,Stage 1,False,True,True,True
+Educational special needs,Binary categorical,Demographic,Stage 1,False,True,True,True
+Debtor,Binary categorical,Socioeconomic / financial,Stage 1,False,True,True,True
+Tuition fees up to date,Binary categorical,Socioeconomic / financial,Stage 1,False,True,True,True
+Gender,Binary categorical,Demographic,Stage 1,False,True,True,True
+Scholarship holder,Binary categorical,Socioeconomic / financial,Stage 1,False,True,True,True
+Age at enrollment,Numerical,Demographic,Stage 1,False,True,True,True
+International,Binary categorical,Demographic,Stage 1,True,False,False,False
+Curricular units 1st sem (credited),Discrete count,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 1st sem (enrolled),Discrete count,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 1st sem (evaluations),Discrete count,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 1st sem (approved),Discrete count,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 1st sem (grade),Continuous numerical,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 1st sem (without evaluations),Discrete count,Semester 1 academic,Stage 2,False,False,True,True
+Curricular units 2nd sem (credited),Discrete count,Semester 2 academic,Stage 3,False,False,False,True
+Curricular units 2nd sem (enrolled),Discrete count,Semester 2 academic,Stage 3,False,False,False,True
+Curricular units 2nd sem (evaluations),Discrete count,Semester 2 academic,Stage 3,False,False,False,True
+Curricular units 2nd sem (approved),Discrete count,Semester 2 academic,Stage 3,False,False,False,True
+Curricular units 2nd sem (grade),Continuous numerical,Semester 2 academic,Stage 3,False,False,False,True
+Curricular units 2nd sem (without evaluations),Discrete count,Semester 2 academic,Stage 3,False,False,False,True
+Unemployment rate,Continuous numerical,Macroeconomic,Stage 1,False,True,True,True
+Inflation rate,Continuous numerical,Macroeconomic,Stage 1,False,True,True,True
+GDP,Continuous numerical,Macroeconomic,Stage 1,False,True,True,True

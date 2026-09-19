@@ -1,0 +1,9 @@
+Feature,Gender,Student_Count,Dropout_Count,Dropout_Rate_Percentage,Displaced,Educational special needs,Daytime/evening attendance
+Gender,0.0,2868,720,25.1,,,
+Gender,1.0,1556,701,45.05,,,
+Displaced,,1998,752,37.64,0.0,,
+Displaced,,2426,669,27.58,1.0,,
+Educational special needs,,4373,1404,32.11,,0.0,
+Educational special needs,,51,17,33.33,,1.0,
+Daytime/evening attendance,,483,207,42.86,,,0.0
+Daytime/evening attendance,,3941,1214,30.8,,,1.0

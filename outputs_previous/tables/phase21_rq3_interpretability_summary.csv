@@ -1,0 +1,9 @@
+Interpretability_Dimension,Evidence,Observed_Value
+Source-level readability,Encoded SHAP contributions reconstructed to original source predictors.,Complete
+Directional clarity,Each contribution labelled as raising or lowering modelled dropout risk.,Complete
+Top-five compactness,Mean share of local absolute SHAP captured by five strongest features.,0.6277
+Cross-model feature consistency,Mean pairwise top-five Jaccard similarity.,0.4731
+Cross-model directional consistency,Mean sign agreement among shared top-five features.,0.9714
+Responsible-use mapping,Top-five features with an existing actionability category.,1.0
+Support-relevant attribution,Mean local absolute SHAP share associated with actionable or semi-actionable predictors.,0.6796
+Practitioner validation,No direct practitioner usability study was conducted.,Not evaluated

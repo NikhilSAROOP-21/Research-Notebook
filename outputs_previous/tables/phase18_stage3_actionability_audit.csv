@@ -1,0 +1,36 @@
+Source_Feature,Actionability
+Marital status,Non-actionable
+Application mode,Non-actionable
+Application order,Non-actionable
+Course,Non-actionable
+Daytime/evening attendance,Non-actionable
+Previous qualification,Non-actionable
+Previous qualification (grade),Non-actionable
+Nacionality,Non-actionable
+Mother's qualification,Non-actionable
+Father's qualification,Non-actionable
+Mother's occupation,Non-actionable
+Father's occupation,Non-actionable
+Admission grade,Non-actionable
+Displaced,Non-actionable
+Educational special needs,Non-actionable
+Debtor,Semi-actionable
+Tuition fees up to date,Semi-actionable
+Gender,Non-actionable
+Scholarship holder,Semi-actionable
+Age at enrollment,Non-actionable
+Unemployment rate,Non-actionable
+Inflation rate,Non-actionable
+GDP,Non-actionable
+Curricular units 1st sem (credited),Non-actionable
+Curricular units 1st sem (enrolled),Semi-actionable
+Curricular units 1st sem (evaluations),Semi-actionable
+Curricular units 1st sem (approved),Actionable
+Curricular units 1st sem (grade),Actionable
+Curricular units 1st sem (without evaluations),Semi-actionable
+Curricular units 2nd sem (credited),Non-actionable
+Curricular units 2nd sem (enrolled),Semi-actionable
+Curricular units 2nd sem (evaluations),Semi-actionable
+Curricular units 2nd sem (approved),Actionable
+Curricular units 2nd sem (grade),Actionable
+Curricular units 2nd sem (without evaluations),Semi-actionable

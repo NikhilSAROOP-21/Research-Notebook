@@ -1,0 +1,4 @@
+Illustrative_Risk_Tier,Interpretation,Illustrative_Response,Human_Review_Required,Automated_Action
+Low,Model score is below the high-sensitivity warning boundary.,Routine academic monitoring and continued access to standard student support.,Yes,No
+Medium,Model score exceeds the high-sensitivity warning boundary but remains below the locked classification threshold.,"Adviser review or check-in, with attention to actionable academic indicators and cautiously interpreted administrative signals.",Yes,No
+High,Model score meets or exceeds the locked F1-optimal classification threshold.,"Human-reviewed consideration for appropriate academic, financial or administrative support using the actionability framework.",Yes,No

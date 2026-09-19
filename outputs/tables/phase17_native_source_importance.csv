@@ -1,0 +1,262 @@
+Stage,Model,Source_Feature,Native_Measure,Native_Importance,Native_Importance_Share,Native_Rank
+Stage 1,Gradient Boosting,Tuition fees up to date,Tree feature importance,0.3190127588865571,0.31901275888655717,1
+Stage 1,Gradient Boosting,Age at enrollment,Tree feature importance,0.1240000888276605,0.12400008882766052,2
+Stage 1,Gradient Boosting,Course,Tree feature importance,0.09803200624469405,0.09803200624469406,3
+Stage 1,Gradient Boosting,Scholarship holder,Tree feature importance,0.0792391286486959,0.07923912864869591,4
+Stage 1,Gradient Boosting,Mother's occupation,Tree feature importance,0.057940234881611465,0.05794023488161147,5
+Stage 1,Gradient Boosting,Application mode,Tree feature importance,0.04025679679552901,0.040256796795529015,6
+Stage 1,Gradient Boosting,Gender,Tree feature importance,0.03754087728599318,0.03754087728599319,7
+Stage 1,Gradient Boosting,Admission grade,Tree feature importance,0.03733869907581385,0.03733869907581386,8
+Stage 1,Gradient Boosting,Mother's qualification,Tree feature importance,0.03662118159397145,0.03662118159397146,9
+Stage 1,Gradient Boosting,Previous qualification (grade),Tree feature importance,0.0340316109293637,0.03403161092936371,10
+Stage 1,Gradient Boosting,Father's qualification,Tree feature importance,0.027510265630060444,0.027510265630060447,11
+Stage 1,Gradient Boosting,Debtor,Tree feature importance,0.022097241532858556,0.02209724153285856,12
+Stage 1,Gradient Boosting,Father's occupation,Tree feature importance,0.019099180221932414,0.019099180221932417,13
+Stage 1,Gradient Boosting,GDP,Tree feature importance,0.015466815481253718,0.01546681548125372,14
+Stage 1,Gradient Boosting,Inflation rate,Tree feature importance,0.011444644870319742,0.011444644870319744,15
+Stage 1,Gradient Boosting,Unemployment rate,Tree feature importance,0.01132427150450506,0.011324271504505061,16
+Stage 1,Gradient Boosting,Nacionality,Tree feature importance,0.009573200851893842,0.009573200851893844,17
+Stage 1,Gradient Boosting,Previous qualification,Tree feature importance,0.005993093973605167,0.0059930939736051675,18
+Stage 1,Gradient Boosting,Marital status,Tree feature importance,0.003779306229199664,0.0037793062291996645,19
+Stage 1,Gradient Boosting,Application order,Tree feature importance,0.0030039475221062296,0.00300394752210623,20
+Stage 1,Gradient Boosting,Daytime/evening attendance,Tree feature importance,0.002719057869992763,0.0027190578699927636,21
+Stage 1,Gradient Boosting,Educational special needs,Tree feature importance,0.0020786321261023295,0.00207863212610233,22
+Stage 1,Gradient Boosting,Displaced,Tree feature importance,0.0018969590162798047,0.001896959016279805,23
+Stage 1,Logistic Regression,Mother's occupation,Absolute coefficient,13.771540096009748,0.16469894826441633,1
+Stage 1,Logistic Regression,Father's occupation,Absolute coefficient,13.343550644764871,0.159580463912131,2
+Stage 1,Logistic Regression,Father's qualification,Absolute coefficient,11.170176302311052,0.1335882752468468,3
+Stage 1,Logistic Regression,Mother's qualification,Absolute coefficient,8.72704588501461,0.10436997377901627,4
+Stage 1,Logistic Regression,Nacionality,Absolute coefficient,8.249277533313748,0.09865616512068362,5
+Stage 1,Logistic Regression,Course,Absolute coefficient,7.743180882877043,0.0926035678464528,6
+Stage 1,Logistic Regression,Application mode,Absolute coefficient,6.965711780862962,0.08330552692168353,7
+Stage 1,Logistic Regression,Previous qualification,Absolute coefficient,4.882896238476697,0.058396364484637614,8
+Stage 1,Logistic Regression,Tuition fees up to date,Absolute coefficient,2.571814551848302,0.030757282690791123,9
+Stage 1,Logistic Regression,Marital status,Absolute coefficient,2.172214009732291,0.02597831181654105,10
+Stage 1,Logistic Regression,Scholarship holder,Absolute coefficient,1.0558309043960725,0.012627072810069067,11
+Stage 1,Logistic Regression,Debtor,Absolute coefficient,0.7373647284685098,0.008818417868980986,12
+Stage 1,Logistic Regression,Gender,Absolute coefficient,0.5884290970531804,0.007037241494937761,13
+Stage 1,Logistic Regression,Educational special needs,Absolute coefficient,0.4352508398061819,0.005205325987327493,14
+Stage 1,Logistic Regression,Daytime/evening attendance,Absolute coefficient,0.33956022020377113,0.004060926428715031,15
+Stage 1,Logistic Regression,Admission grade,Absolute coefficient,0.18971236523040044,0.0022688404353014245,16
+Stage 1,Logistic Regression,Unemployment rate,Absolute coefficient,0.1877747374112689,0.0022456676266167006,17
+Stage 1,Logistic Regression,Age at enrollment,Absolute coefficient,0.16739545007249498,0.002001944181913016,18
+Stage 1,Logistic Regression,Previous qualification (grade),Absolute coefficient,0.09365494143508153,0.001120054129500936,19
+Stage 1,Logistic Regression,Displaced,Absolute coefficient,0.0812613980725308,0.0009718351545096803,20
+Stage 1,Logistic Regression,Application order,Absolute coefficient,0.06869017594589273,0.0008214912533758079,21
+Stage 1,Logistic Regression,GDP,Absolute coefficient,0.03910861286751229,0.00046771438506182703,22
+Stage 1,Logistic Regression,Inflation rate,Absolute coefficient,0.03500085274770941,0.0004185881604901777,23
+Stage 1,Random Forest,Tuition fees up to date,Tree feature importance,0.15085579815748817,0.15085579815748817,1
+Stage 1,Random Forest,Application mode,Tree feature importance,0.0919006604438982,0.0919006604438982,2
+Stage 1,Random Forest,Course,Tree feature importance,0.09174240845433008,0.09174240845433008,3
+Stage 1,Random Forest,Age at enrollment,Tree feature importance,0.08945231482410407,0.08945231482410407,4
+Stage 1,Random Forest,Scholarship holder,Tree feature importance,0.07308101305780336,0.07308101305780336,5
+Stage 1,Random Forest,Debtor,Tree feature importance,0.055302895525594406,0.055302895525594406,6
+Stage 1,Random Forest,Mother's occupation,Tree feature importance,0.05323089349624625,0.05323089349624625,7
+Stage 1,Random Forest,Father's occupation,Tree feature importance,0.05081503403071925,0.05081503403071925,8
+Stage 1,Random Forest,Mother's qualification,Tree feature importance,0.045514116025137843,0.045514116025137843,9
+Stage 1,Random Forest,Father's qualification,Tree feature importance,0.04262498523598308,0.04262498523598308,10
+Stage 1,Random Forest,Previous qualification (grade),Tree feature importance,0.0401814743159832,0.0401814743159832,11
+Stage 1,Random Forest,Gender,Tree feature importance,0.038997945707987376,0.038997945707987376,12
+Stage 1,Random Forest,Admission grade,Tree feature importance,0.03781186914001756,0.03781186914001756,13
+Stage 1,Random Forest,Previous qualification,Tree feature importance,0.03323367843799289,0.03323367843799289,14
+Stage 1,Random Forest,GDP,Tree feature importance,0.020451366185510064,0.020451366185510064,15
+Stage 1,Random Forest,Unemployment rate,Tree feature importance,0.020190096810503735,0.020190096810503735,16
+Stage 1,Random Forest,Inflation rate,Tree feature importance,0.015440397712435818,0.015440397712435818,17
+Stage 1,Random Forest,Marital status,Tree feature importance,0.014880470151570516,0.014880470151570516,18
+Stage 1,Random Forest,Displaced,Tree feature importance,0.011239739908623016,0.011239739908623016,19
+Stage 1,Random Forest,Application order,Tree feature importance,0.010724204917436475,0.010724204917436475,20
+Stage 1,Random Forest,Nacionality,Tree feature importance,0.005513779981958429,0.005513779981958429,21
+Stage 1,Random Forest,Daytime/evening attendance,Tree feature importance,0.0053874619657672766,0.0053874619657672766,22
+Stage 1,Random Forest,Educational special needs,Tree feature importance,0.0014273955129089173,0.0014273955129089173,23
+Stage 2,Gradient Boosting,Curricular units 1st sem (approved),Tree feature importance,0.549176833228841,0.549176833228841,1
+Stage 2,Gradient Boosting,Tuition fees up to date,Tree feature importance,0.14420878633638837,0.14420878633638837,2
+Stage 2,Gradient Boosting,Curricular units 1st sem (grade),Tree feature importance,0.04352589611527605,0.04352589611527605,3
+Stage 2,Gradient Boosting,Age at enrollment,Tree feature importance,0.041728810801621746,0.041728810801621746,4
+Stage 2,Gradient Boosting,Course,Tree feature importance,0.03704012745788035,0.03704012745788035,5
+Stage 2,Gradient Boosting,Curricular units 1st sem (enrolled),Tree feature importance,0.033839764793870304,0.033839764793870304,6
+Stage 2,Gradient Boosting,Debtor,Tree feature importance,0.020984298787284243,0.020984298787284243,7
+Stage 2,Gradient Boosting,Scholarship holder,Tree feature importance,0.02028446692717814,0.02028446692717814,8
+Stage 2,Gradient Boosting,Mother's occupation,Tree feature importance,0.020278553992698907,0.020278553992698907,9
+Stage 2,Gradient Boosting,Father's qualification,Tree feature importance,0.010740686644767248,0.010740686644767248,10
+Stage 2,Gradient Boosting,Gender,Tree feature importance,0.009187863229105812,0.009187863229105812,11
+Stage 2,Gradient Boosting,Mother's qualification,Tree feature importance,0.008936204898220135,0.008936204898220135,12
+Stage 2,Gradient Boosting,Application mode,Tree feature importance,0.00840839912355409,0.00840839912355409,13
+Stage 2,Gradient Boosting,Admission grade,Tree feature importance,0.008020826898717177,0.008020826898717177,14
+Stage 2,Gradient Boosting,Father's occupation,Tree feature importance,0.006870277955003952,0.006870277955003952,15
+Stage 2,Gradient Boosting,Curricular units 1st sem (credited),Tree feature importance,0.006003273617654801,0.006003273617654801,16
+Stage 2,Gradient Boosting,Nacionality,Tree feature importance,0.005489337103969833,0.005489337103969833,17
+Stage 2,Gradient Boosting,Unemployment rate,Tree feature importance,0.00491133569906858,0.00491133569906858,18
+Stage 2,Gradient Boosting,Curricular units 1st sem (evaluations),Tree feature importance,0.004618950649398547,0.004618950649398547,19
+Stage 2,Gradient Boosting,Previous qualification (grade),Tree feature importance,0.0038269210241313563,0.0038269210241313563,20
+Stage 2,Gradient Boosting,GDP,Tree feature importance,0.003320428913427005,0.003320428913427005,21
+Stage 2,Gradient Boosting,Curricular units 1st sem (without evaluations),Tree feature importance,0.0024791126736700584,0.0024791126736700584,22
+Stage 2,Gradient Boosting,Previous qualification,Tree feature importance,0.0020588682727794173,0.0020588682727794173,23
+Stage 2,Gradient Boosting,Displaced,Tree feature importance,0.0016872658430676223,0.0016872658430676223,24
+Stage 2,Gradient Boosting,Inflation rate,Tree feature importance,0.001070460057316958,0.001070460057316958,25
+Stage 2,Gradient Boosting,Application order,Tree feature importance,0.001058860822476124,0.001058860822476124,26
+Stage 2,Gradient Boosting,Marital status,Tree feature importance,0.00024338813263206986,0.00024338813263206986,27
+Stage 2,Gradient Boosting,Daytime/evening attendance,Tree feature importance,0.0,0.0,28
+Stage 2,Gradient Boosting,Educational special needs,Tree feature importance,0.0,0.0,28
+Stage 2,Logistic Regression,Mother's occupation,Absolute coefficient,13.180379280479116,0.16019420046408725,1
+Stage 2,Logistic Regression,Father's occupation,Absolute coefficient,12.375392822598661,0.15041040295261765,2
+Stage 2,Logistic Regression,Father's qualification,Absolute coefficient,10.679653542314824,0.12980040437670856,3
+Stage 2,Logistic Regression,Mother's qualification,Absolute coefficient,8.719171115329814,0.10597272019315139,4
+Stage 2,Logistic Regression,Course,Absolute coefficient,8.366942193070068,0.10169173332767509,5
+Stage 2,Logistic Regression,Nacionality,Absolute coefficient,7.027090539029761,0.08540718946956619,6
+Stage 2,Logistic Regression,Application mode,Absolute coefficient,5.993801797684064,0.07284860824470178,7
+Stage 2,Logistic Regression,Previous qualification,Absolute coefficient,4.293974594962256,0.05218892509958764,8
+Stage 2,Logistic Regression,Tuition fees up to date,Absolute coefficient,2.3798091171951175,0.028924176662415372,9
+Stage 2,Logistic Regression,Curricular units 1st sem (approved),Absolute coefficient,2.334162744342784,0.02836939109459828,10
+Stage 2,Logistic Regression,Marital status,Absolute coefficient,1.4612162226676286,0.017759607634514563,11
+Stage 2,Logistic Regression,Curricular units 1st sem (enrolled),Absolute coefficient,0.9515667451052812,0.011565332884321466,12
+Stage 2,Logistic Regression,Debtor,Absolute coefficient,0.7749754043690251,0.009419043461525932,13
+Stage 2,Logistic Regression,Curricular units 1st sem (credited),Absolute coefficient,0.5696033211438204,0.006922953176883551,14
+Stage 2,Logistic Regression,Scholarship holder,Absolute coefficient,0.5496200883621397,0.006680077161707703,15
+Stage 2,Logistic Regression,Gender,Absolute coefficient,0.48981797121074044,0.0059532428165597956,16
+Stage 2,Logistic Regression,Displaced,Absolute coefficient,0.3605377626962464,0.004381972430624662,17
+Stage 2,Logistic Regression,Unemployment rate,Absolute coefficient,0.36040471654096046,0.004380355388958614,18
+Stage 2,Logistic Regression,Age at enrollment,Absolute coefficient,0.29001184642331207,0.00352480113616331,19
+Stage 2,Logistic Regression,Daytime/evening attendance,Absolute coefficient,0.24903165532697324,0.0030267282956293255,20
+Stage 2,Logistic Regression,Curricular units 1st sem (without evaluations),Absolute coefficient,0.1301425451212261,0.0015817512165930913,21
+Stage 2,Logistic Regression,Educational special needs,Absolute coefficient,0.12729448349244998,0.0015471359034988801,22
+Stage 2,Logistic Regression,Curricular units 1st sem (grade),Absolute coefficient,0.12600982254263401,0.0015315221469184455,23
+Stage 2,Logistic Regression,Previous qualification (grade),Absolute coefficient,0.10482395583699344,0.0012740293308296624,24
+Stage 2,Logistic Regression,Curricular units 1st sem (evaluations),Absolute coefficient,0.09933183466107764,0.0012072781439400138,25
+Stage 2,Logistic Regression,Application order,Absolute coefficient,0.08559088505772032,0.0010402707772713417,26
+Stage 2,Logistic Regression,GDP,Absolute coefficient,0.07459764932390818,0.0009066590980156858,27
+Stage 2,Logistic Regression,Inflation rate,Absolute coefficient,0.06330748151774951,0.0007694385092658891,28
+Stage 2,Logistic Regression,Admission grade,Absolute coefficient,0.0592438031020003,0.0007200486016690533,29
+Stage 2,Random Forest,Curricular units 1st sem (approved),Tree feature importance,0.13427241437132273,0.13427241437132276,1
+Stage 2,Random Forest,Curricular units 1st sem (grade),Tree feature importance,0.10715846552904976,0.10715846552904977,2
+Stage 2,Random Forest,Course,Tree feature importance,0.06569852734223058,0.0656985273422306,3
+Stage 2,Random Forest,Tuition fees up to date,Tree feature importance,0.05421896756940105,0.054218967569401054,4
+Stage 2,Random Forest,Father's occupation,Tree feature importance,0.052716191204929104,0.05271619120492911,5
+Stage 2,Random Forest,Age at enrollment,Tree feature importance,0.049014521407328454,0.04901452140732846,6
+Stage 2,Random Forest,Mother's occupation,Tree feature importance,0.04739910925724926,0.047399109257249265,7
+Stage 2,Random Forest,Curricular units 1st sem (evaluations),Tree feature importance,0.04659462224429995,0.04659462224429996,8
+Stage 2,Random Forest,Application mode,Tree feature importance,0.04605044926207767,0.04605044926207768,9
+Stage 2,Random Forest,Father's qualification,Tree feature importance,0.04282167651847126,0.04282167651847127,10
+Stage 2,Random Forest,Admission grade,Tree feature importance,0.04242874824427716,0.04242874824427717,11
+Stage 2,Random Forest,Mother's qualification,Tree feature importance,0.04172222631816571,0.04172222631816572,12
+Stage 2,Random Forest,Previous qualification (grade),Tree feature importance,0.03848913052972142,0.03848913052972143,13
+Stage 2,Random Forest,Curricular units 1st sem (enrolled),Tree feature importance,0.02493066614560983,0.024930666145609834,14
+Stage 2,Random Forest,Scholarship holder,Tree feature importance,0.02475986173307343,0.024759861733073433,15
+Stage 2,Random Forest,Debtor,Tree feature importance,0.024297637037767373,0.024297637037767376,16
+Stage 2,Random Forest,GDP,Tree feature importance,0.023856741242456164,0.023856741242456167,17
+Stage 2,Random Forest,Unemployment rate,Tree feature importance,0.02345038522005673,0.023450385220056734,18
+Stage 2,Random Forest,Inflation rate,Tree feature importance,0.02145201539474359,0.021452015394743593,19
+Stage 2,Random Forest,Gender,Tree feature importance,0.01588061421693384,0.015880614216933844,20
+Stage 2,Random Forest,Previous qualification,Tree feature importance,0.015823008126256928,0.01582300812625693,21
+Stage 2,Random Forest,Application order,Tree feature importance,0.01432942580316129,0.014329425803161292,22
+Stage 2,Random Forest,Curricular units 1st sem (credited),Tree feature importance,0.009591770983535263,0.009591770983535265,23
+Stage 2,Random Forest,Displaced,Tree feature importance,0.009372485123478652,0.009372485123478654,24
+Stage 2,Random Forest,Marital status,Tree feature importance,0.008549695326107566,0.008549695326107568,25
+Stage 2,Random Forest,Curricular units 1st sem (without evaluations),Tree feature importance,0.006289824440632909,0.00628982444063291,26
+Stage 2,Random Forest,Nacionality,Tree feature importance,0.0042173682481691155,0.004217368248169116,27
+Stage 2,Random Forest,Daytime/evening attendance,Tree feature importance,0.003471040141460083,0.0034710401414600836,28
+Stage 2,Random Forest,Educational special needs,Tree feature importance,0.001142411018033077,0.0011424110180330773,29
+Stage 3,Gradient Boosting,Curricular units 2nd sem (approved),Tree feature importance,0.5763052706756994,0.5763052706756993,1
+Stage 3,Gradient Boosting,Tuition fees up to date,Tree feature importance,0.1040521349462267,0.10405213494622667,2
+Stage 3,Gradient Boosting,Curricular units 1st sem (approved),Tree feature importance,0.04652926181331718,0.04652926181331717,3
+Stage 3,Gradient Boosting,Course,Tree feature importance,0.038785965193873596,0.03878596519387359,4
+Stage 3,Gradient Boosting,Curricular units 2nd sem (grade),Tree feature importance,0.037750440127627766,0.03775044012762776,5
+Stage 3,Gradient Boosting,Age at enrollment,Tree feature importance,0.028383390175597833,0.028383390175597826,6
+Stage 3,Gradient Boosting,Curricular units 2nd sem (enrolled),Tree feature importance,0.019348849374749465,0.019348849374749462,7
+Stage 3,Gradient Boosting,Debtor,Tree feature importance,0.016332863577552398,0.016332863577552394,8
+Stage 3,Gradient Boosting,Mother's occupation,Tree feature importance,0.013346166502792488,0.013346166502792484,9
+Stage 3,Gradient Boosting,Curricular units 2nd sem (credited),Tree feature importance,0.01261180637734828,0.012611806377348277,10
+Stage 3,Gradient Boosting,Curricular units 2nd sem (evaluations),Tree feature importance,0.010874922808480389,0.010874922808480387,11
+Stage 3,Gradient Boosting,Scholarship holder,Tree feature importance,0.010076284606186472,0.01007628460618647,12
+Stage 3,Gradient Boosting,Mother's qualification,Tree feature importance,0.009358300668926183,0.009358300668926182,13
+Stage 3,Gradient Boosting,Admission grade,Tree feature importance,0.008215597591698008,0.008215597591698006,14
+Stage 3,Gradient Boosting,Previous qualification (grade),Tree feature importance,0.007727222766658981,0.007727222766658979,15
+Stage 3,Gradient Boosting,Father's occupation,Tree feature importance,0.007289247311607335,0.007289247311607333,16
+Stage 3,Gradient Boosting,Father's qualification,Tree feature importance,0.006863039507515238,0.006863039507515236,17
+Stage 3,Gradient Boosting,Application mode,Tree feature importance,0.0061602314893712835,0.006160231489371282,18
+Stage 3,Gradient Boosting,Curricular units 1st sem (grade),Tree feature importance,0.00575049841543619,0.0057504984154361895,19
+Stage 3,Gradient Boosting,Curricular units 1st sem (enrolled),Tree feature importance,0.0051742409517001224,0.005174240951700122,20
+Stage 3,Gradient Boosting,GDP,Tree feature importance,0.004569544173138434,0.004569544173138433,21
+Stage 3,Gradient Boosting,Gender,Tree feature importance,0.004100415182576927,0.004100415182576926,22
+Stage 3,Gradient Boosting,Nacionality,Tree feature importance,0.004080052033199015,0.0040800520331990145,23
+Stage 3,Gradient Boosting,Curricular units 1st sem (credited),Tree feature importance,0.0032385794028441284,0.0032385794028441275,24
+Stage 3,Gradient Boosting,Previous qualification,Tree feature importance,0.0027765289721405745,0.002776528972140574,25
+Stage 3,Gradient Boosting,Unemployment rate,Tree feature importance,0.0020926767699897446,0.002092676769989744,26
+Stage 3,Gradient Boosting,Curricular units 1st sem (evaluations),Tree feature importance,0.0019554667463007377,0.0019554667463007372,27
+Stage 3,Gradient Boosting,Inflation rate,Tree feature importance,0.0018500145391075731,0.0018500145391075727,28
+Stage 3,Gradient Boosting,Curricular units 1st sem (without evaluations),Tree feature importance,0.0014684793335400436,0.0014684793335400432,29
+Stage 3,Gradient Boosting,Application order,Tree feature importance,0.0014259612428546547,0.0014259612428546545,30
+Stage 3,Gradient Boosting,Curricular units 2nd sem (without evaluations),Tree feature importance,0.000971618570746659,0.0009716185707466587,31
+Stage 3,Gradient Boosting,Displaced,Tree feature importance,0.0004077418972910643,0.0004077418972910642,32
+Stage 3,Gradient Boosting,Marital status,Tree feature importance,7.190947166828465e-05,7.190947166828464e-05,33
+Stage 3,Gradient Boosting,Educational special needs,Tree feature importance,4.59458246592241e-05,4.594582465922409e-05,34
+Stage 3,Gradient Boosting,Daytime/evening attendance,Tree feature importance,9.330957577852097e-06,9.330957577852096e-06,35
+Stage 3,Logistic Regression,Course,Absolute coefficient,4.700063725014564,0.1487149311839546,1
+Stage 3,Logistic Regression,Father's occupation,Absolute coefficient,3.8839142863303495,0.12289110948473497,2
+Stage 3,Logistic Regression,Mother's occupation,Absolute coefficient,3.2813161029587192,0.1038242728172363,3
+Stage 3,Logistic Regression,Mother's qualification,Absolute coefficient,2.6121575463155993,0.08265139633628442,4
+Stage 3,Logistic Regression,Father's qualification,Absolute coefficient,2.553243745346574,0.08078730206661222,5
+Stage 3,Logistic Regression,Application mode,Absolute coefficient,2.4648732802933933,0.07799116814205845,6
+Stage 3,Logistic Regression,Tuition fees up to date,Absolute coefficient,1.646133378139057,0.05208538146975912,7
+Stage 3,Logistic Regression,Curricular units 2nd sem (approved),Absolute coefficient,1.5590625119184702,0.04933036821127787,8
+Stage 3,Logistic Regression,Previous qualification,Absolute coefficient,1.4046466418484205,0.04444448860735681,9
+Stage 3,Logistic Regression,Nacionality,Absolute coefficient,1.370454685445401,0.043362619351742814,10
+Stage 3,Logistic Regression,Curricular units 1st sem (approved),Absolute coefficient,0.8862070564760548,0.02804051798641583,11
+Stage 3,Logistic Regression,Curricular units 2nd sem (enrolled),Absolute coefficient,0.7024702231059754,0.022226892442327183,12
+Stage 3,Logistic Regression,Debtor,Absolute coefficient,0.6219232725771672,0.01967830269848664,13
+Stage 3,Logistic Regression,Marital status,Absolute coefficient,0.607886625273886,0.019234168499486087,14
+Stage 3,Logistic Regression,Scholarship holder,Absolute coefficient,0.42517477202514387,0.013452974398273063,15
+Stage 3,Logistic Regression,Curricular units 1st sem (enrolled),Absolute coefficient,0.3415159577758198,0.010805922032194576,16
+Stage 3,Logistic Regression,Curricular units 2nd sem (credited),Absolute coefficient,0.32085399578233076,0.010152155948208622,17
+Stage 3,Logistic Regression,Gender,Absolute coefficient,0.28924380273844336,0.00915197638506479,18
+Stage 3,Logistic Regression,Curricular units 2nd sem (grade),Absolute coefficient,0.26362253529696217,0.008341292690687058,19
+Stage 3,Logistic Regression,Age at enrollment,Absolute coefficient,0.22966221522275626,0.0072667526507421846,20
+Stage 3,Logistic Regression,Unemployment rate,Absolute coefficient,0.2202607885943001,0.006969281681010274,21
+Stage 3,Logistic Regression,Displaced,Absolute coefficient,0.2113940503006628,0.006688728809323344,22
+Stage 3,Logistic Regression,Curricular units 1st sem (credited),Absolute coefficient,0.1578388184967225,0.004994185271567578,23
+Stage 3,Logistic Regression,Curricular units 1st sem (grade),Absolute coefficient,0.15512577264032912,0.004908341663600071,24
+Stage 3,Logistic Regression,Educational special needs,Absolute coefficient,0.13990002049502565,0.004426582943933831,25
+Stage 3,Logistic Regression,Daytime/evening attendance,Absolute coefficient,0.13341234496837434,0.004221306106014621,26
+Stage 3,Logistic Regression,Application order,Absolute coefficient,0.10517029196132069,0.0033276980157488727,27
+Stage 3,Logistic Regression,Curricular units 2nd sem (without evaluations),Absolute coefficient,0.09068897323835495,0.002869493948030176,28
+Stage 3,Logistic Regression,Inflation rate,Absolute coefficient,0.050792723316044,0.001607134880403717,29
+Stage 3,Logistic Regression,Curricular units 2nd sem (evaluations),Absolute coefficient,0.04335817182091582,0.0013718978966800277,30
+Stage 3,Logistic Regression,Curricular units 1st sem (evaluations),Absolute coefficient,0.03801665031427269,0.0012028865705036819,31
+Stage 3,Logistic Regression,Curricular units 1st sem (without evaluations),Absolute coefficient,0.035867865349389225,0.0011348967671993085,32
+Stage 3,Logistic Regression,Previous qualification (grade),Absolute coefficient,0.033845991789453585,0.0010709225734605726,33
+Stage 3,Logistic Regression,Admission grade,Absolute coefficient,0.02195016964083538,0.0006945263210453275,34
+Stage 3,Logistic Regression,GDP,Absolute coefficient,0.002469044458266067,7.812314857497487e-05,35
+Stage 3,Random Forest,Curricular units 2nd sem (approved),Tree feature importance,0.12788227206957847,0.1278822720695785,1
+Stage 3,Random Forest,Curricular units 2nd sem (grade),Tree feature importance,0.09665916326214866,0.09665916326214867,2
+Stage 3,Random Forest,Curricular units 1st sem (approved),Tree feature importance,0.08250125001300052,0.08250125001300053,3
+Stage 3,Random Forest,Curricular units 1st sem (grade),Tree feature importance,0.06342740182961282,0.06342740182961283,4
+Stage 3,Random Forest,Course,Tree feature importance,0.04765586472651811,0.047655864726518116,5
+Stage 3,Random Forest,Tuition fees up to date,Tree feature importance,0.04594661456986472,0.04594661456986473,6
+Stage 3,Random Forest,Father's occupation,Tree feature importance,0.04067095838292244,0.040670958382922444,7
+Stage 3,Random Forest,Age at enrollment,Tree feature importance,0.037016402589347436,0.03701640258934744,8
+Stage 3,Random Forest,Application mode,Tree feature importance,0.03642596674811074,0.036425966748110744,9
+Stage 3,Random Forest,Mother's occupation,Tree feature importance,0.03571227026224673,0.035712270262246736,10
+Stage 3,Random Forest,Curricular units 2nd sem (evaluations),Tree feature importance,0.03487863192699165,0.03487863192699166,11
+Stage 3,Random Forest,Mother's qualification,Tree feature importance,0.03273691638286078,0.03273691638286079,12
+Stage 3,Random Forest,Father's qualification,Tree feature importance,0.032337906092554304,0.03233790609255431,13
+Stage 3,Random Forest,Admission grade,Tree feature importance,0.03220951439993312,0.03220951439993313,14
+Stage 3,Random Forest,Previous qualification (grade),Tree feature importance,0.028614619705327887,0.02861461970532789,15
+Stage 3,Random Forest,Curricular units 1st sem (evaluations),Tree feature importance,0.02774650661965365,0.027746506619653652,16
+Stage 3,Random Forest,Debtor,Tree feature importance,0.018840942243476762,0.018840942243476766,17
+Stage 3,Random Forest,GDP,Tree feature importance,0.017859088243734635,0.01785908824373464,18
+Stage 3,Random Forest,Unemployment rate,Tree feature importance,0.017747549648759946,0.01774754964875995,19
+Stage 3,Random Forest,Curricular units 2nd sem (enrolled),Tree feature importance,0.017200044834351134,0.017200044834351138,20
+Stage 3,Random Forest,Curricular units 1st sem (enrolled),Tree feature importance,0.01706951939923476,0.017069519399234765,21
+Stage 3,Random Forest,Inflation rate,Tree feature importance,0.01662687247272205,0.016626872472722053,22
+Stage 3,Random Forest,Scholarship holder,Tree feature importance,0.01612813182141386,0.016128131821413864,23
+Stage 3,Random Forest,Gender,Tree feature importance,0.01155221185509046,0.011552211855090462,24
+Stage 3,Random Forest,Previous qualification,Tree feature importance,0.011491736833999698,0.0114917368339997,25
+Stage 3,Random Forest,Application order,Tree feature importance,0.010796338892384278,0.01079633889238428,26
+Stage 3,Random Forest,Curricular units 1st sem (credited),Tree feature importance,0.007258046809479328,0.007258046809479329,27
+Stage 3,Random Forest,Displaced,Tree feature importance,0.007232249767701718,0.007232249767701719,28
+Stage 3,Random Forest,Marital status,Tree feature importance,0.006142636302230164,0.0061426363022301644,29
+Stage 3,Random Forest,Curricular units 2nd sem (credited),Tree feature importance,0.005400624994529285,0.005400624994529286,30
+Stage 3,Random Forest,Curricular units 1st sem (without evaluations),Tree feature importance,0.004494415119538161,0.004494415119538162,31
+Stage 3,Random Forest,Curricular units 2nd sem (without evaluations),Tree feature importance,0.00445711082246944,0.004457110822469441,32
+Stage 3,Random Forest,Nacionality,Tree feature importance,0.0035375729112594647,0.003537572911259465,33
+Stage 3,Random Forest,Daytime/evening attendance,Tree feature importance,0.002686294618257778,0.0026862946182577784,34
+Stage 3,Random Forest,Educational special needs,Tree feature importance,0.0010563528286949896,0.0010563528286949898,35

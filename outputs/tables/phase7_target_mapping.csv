@@ -1,0 +1,4 @@
+Original_Target,Binary_Value,Binary_Label
+Dropout,1,Dropout
+Graduate,0,Non-dropout
+Enrolled,0,Non-dropout

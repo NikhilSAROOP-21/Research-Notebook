@@ -1,0 +1,10 @@
+Stage,Model,Accuracy,Precision,Recall,F1,ROC_AUC
+Stage 1,Gradient Boosting,0.7706,0.6647,0.5805,0.6194,0.8089
+Stage 1,Logistic Regression,0.7412,0.5859,0.6702,0.6247,0.8005
+Stage 1,Random Forest,0.7587,0.6212,0.6385,0.6296,0.8102
+Stage 2,Gradient Boosting,0.8406,0.7476,0.7625,0.7546,0.8911
+Stage 2,Logistic Regression,0.8398,0.7384,0.7775,0.7573,0.8955
+Stage 2,Random Forest,0.8454,0.7711,0.7388,0.7544,0.8917
+Stage 3,Gradient Boosting,0.8587,0.7766,0.7889,0.7824,0.9124
+Stage 3,Logistic Regression,0.8632,0.7783,0.8039,0.7906,0.9145
+Stage 3,Random Forest,0.8607,0.7926,0.7678,0.7799,0.9111

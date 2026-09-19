@@ -1,0 +1,4 @@
+Stage,Prediction_Point,Source_Predictors,Primary_Model_Predictors,New_Academic_Block
+Stage 1,Pre-semester / earliest prediction,24,23,None
+Stage 2,Post-first-semester,30,29,Six first-semester variables
+Stage 3,Post-second-semester,36,35,Six second-semester variables

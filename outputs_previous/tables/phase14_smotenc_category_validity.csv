@@ -1,0 +1,18 @@
+Feature,Original_Unique_Values,Resampled_Unique_Values,Unexpected_Values,Valid
+Marital status,6,6,[],True
+Application mode,17,17,[],True
+Course,17,17,[],True
+Previous qualification,15,15,[],True
+Nacionality,17,17,[],True
+Mother's qualification,23,23,[],True
+Father's qualification,31,31,[],True
+Mother's occupation,31,31,[],True
+Father's occupation,41,41,[],True
+Daytime/evening attendance,2,2,[],True
+Displaced,2,2,[],True
+Educational special needs,2,2,[],True
+Debtor,2,2,[],True
+Tuition fees up to date,2,2,[],True
+Gender,2,2,[],True
+Scholarship holder,2,2,[],True
+Application order,7,7,[],True

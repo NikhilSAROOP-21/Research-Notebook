@@ -1,0 +1,36 @@
+Variable,Semantic_Type,Conceptual_Group,First_Available_Stage,Actionability,DiCE_Eligible
+Marital status,Nominal categorical,Demographic,Stage 1,Non-actionable,False
+Application mode,Nominal categorical,Application / enrolment,Stage 1,Non-actionable,False
+Application order,Ordinal discrete,Application / enrolment,Stage 1,Non-actionable,False
+Course,Nominal categorical,Application / enrolment,Stage 1,Non-actionable,False
+Daytime/evening attendance,Binary categorical,Application / enrolment,Stage 1,Non-actionable,False
+Previous qualification,Nominal categorical,Prior academic / enrolment,Stage 1,Non-actionable,False
+Previous qualification (grade),Continuous numerical,Prior academic / enrolment,Stage 1,Non-actionable,False
+Nacionality,Nominal categorical,Demographic,Stage 1,Non-actionable,False
+Mother's qualification,Nominal categorical,Socioeconomic / family background,Stage 1,Non-actionable,False
+Father's qualification,Nominal categorical,Socioeconomic / family background,Stage 1,Non-actionable,False
+Mother's occupation,Nominal categorical,Socioeconomic / family background,Stage 1,Non-actionable,False
+Father's occupation,Nominal categorical,Socioeconomic / family background,Stage 1,Non-actionable,False
+Admission grade,Continuous numerical,Prior academic / enrolment,Stage 1,Non-actionable,False
+Displaced,Binary categorical,Demographic / socioeconomic,Stage 1,Non-actionable,False
+Educational special needs,Binary categorical,Demographic,Stage 1,Non-actionable,False
+Debtor,Binary categorical,Socioeconomic / financial,Stage 1,Semi-actionable,True
+Tuition fees up to date,Binary categorical,Socioeconomic / financial,Stage 1,Semi-actionable,True
+Gender,Binary categorical,Demographic,Stage 1,Non-actionable,False
+Scholarship holder,Binary categorical,Socioeconomic / financial,Stage 1,Semi-actionable,False
+Age at enrollment,Numerical,Demographic,Stage 1,Non-actionable,False
+Curricular units 1st sem (credited),Discrete count,Semester 1 academic,Stage 2,Non-actionable,False
+Curricular units 1st sem (enrolled),Discrete count,Semester 1 academic,Stage 2,Semi-actionable,False
+Curricular units 1st sem (evaluations),Discrete count,Semester 1 academic,Stage 2,Semi-actionable,False
+Curricular units 1st sem (approved),Discrete count,Semester 1 academic,Stage 2,Actionable,True
+Curricular units 1st sem (grade),Continuous numerical,Semester 1 academic,Stage 2,Actionable,True
+Curricular units 1st sem (without evaluations),Discrete count,Semester 1 academic,Stage 2,Semi-actionable,False
+Curricular units 2nd sem (credited),Discrete count,Semester 2 academic,Stage 3,Non-actionable,False
+Curricular units 2nd sem (enrolled),Discrete count,Semester 2 academic,Stage 3,Semi-actionable,False
+Curricular units 2nd sem (evaluations),Discrete count,Semester 2 academic,Stage 3,Semi-actionable,False
+Curricular units 2nd sem (approved),Discrete count,Semester 2 academic,Stage 3,Actionable,True
+Curricular units 2nd sem (grade),Continuous numerical,Semester 2 academic,Stage 3,Actionable,True
+Curricular units 2nd sem (without evaluations),Discrete count,Semester 2 academic,Stage 3,Semi-actionable,False
+Unemployment rate,Continuous numerical,Macroeconomic,Stage 1,Non-actionable,False
+Inflation rate,Continuous numerical,Macroeconomic,Stage 1,Non-actionable,False
+GDP,Continuous numerical,Macroeconomic,Stage 1,Non-actionable,False

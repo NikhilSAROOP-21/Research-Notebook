@@ -1,0 +1,5 @@
+,Previous qualification (grade),Previous qualification (grade),Previous qualification (grade),Admission grade,Admission grade,Admission grade
+,mean,median,std,mean,median,std
+Dropout_binary,,,,,,
+Non-dropout,133.32,133.1,13.28,127.93,126.7,14.07
+Dropout,131.11,133.1,12.87,124.96,123.6,15.13

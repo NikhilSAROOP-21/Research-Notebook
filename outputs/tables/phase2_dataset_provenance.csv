@@ -1,0 +1,2 @@
+Dataset,Repository,Source_Citation,Verification_Date,Rows,Columns,SHA256,Checksum_Match
+Predict Students' Dropout and Academic Success,UCI Machine Learning Repository,Realinho et al. (2022),13 September 2026,4424,37,3ef126de5cefff26eb11fbb4237f1a1401cb64b488e2f1d598c23cedeb4c45ae,True

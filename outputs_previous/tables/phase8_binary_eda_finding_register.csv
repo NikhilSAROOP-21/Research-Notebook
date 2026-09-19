@@ -1,0 +1,8 @@
+Area,Finding,Research_Relevance
+Age,"Dropout students are older on average, although distributions overlap.",Potential Stage 1 predictive association; non-actionable characteristic.
+Financial / administrative,Debtor and tuition-fee status show pronounced differences in observed dropout rates.,Potential Stage 1 predictive information; interpret cautiously and non-causally.
+Scholarship,Scholarship holders show a lower descriptive dropout rate.,Socioeconomic association requiring later multivariable evaluation.
+Prior academic,"Prior and admission grades differ between binary outcome groups, with considerable overlap.",Provides pre-enrolment academic information for Stage 1.
+Semester 1,Approved units and semester grade show strong descriptive differences.,Provides rationale for testing whether Stage 2 improves prediction.
+Semester 2,Approved units and grade show pronounced binary-outcome separation.,Provides rationale for testing Stage 3 without assuming improved performance.
+Macroeconomic,Simple outcome-group differences are modest.,Variables remain available for multivariable Stage 1 modelling.

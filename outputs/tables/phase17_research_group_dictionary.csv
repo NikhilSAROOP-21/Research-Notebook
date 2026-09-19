@@ -1,0 +1,36 @@
+Variable,Conceptual_Group,Research_Group
+Marital status,Demographic,Demographic
+Application mode,Application / enrolment,Application / enrolment
+Application order,Application / enrolment,Application / enrolment
+Course,Application / enrolment,Application / enrolment
+Daytime/evening attendance,Application / enrolment,Application / enrolment
+Previous qualification,Prior academic / enrolment,Academic
+Previous qualification (grade),Prior academic / enrolment,Academic
+Nacionality,Demographic,Demographic
+Mother's qualification,Socioeconomic / family background,Socioeconomic
+Father's qualification,Socioeconomic / family background,Socioeconomic
+Mother's occupation,Socioeconomic / family background,Socioeconomic
+Father's occupation,Socioeconomic / family background,Socioeconomic
+Admission grade,Prior academic / enrolment,Academic
+Displaced,Demographic / socioeconomic,Demographic / socioeconomic
+Educational special needs,Demographic,Demographic
+Debtor,Socioeconomic / financial,Socioeconomic
+Tuition fees up to date,Socioeconomic / financial,Socioeconomic
+Gender,Demographic,Demographic
+Scholarship holder,Socioeconomic / financial,Socioeconomic
+Age at enrollment,Demographic,Demographic
+Curricular units 1st sem (credited),Semester 1 academic,Academic
+Curricular units 1st sem (enrolled),Semester 1 academic,Academic
+Curricular units 1st sem (evaluations),Semester 1 academic,Academic
+Curricular units 1st sem (approved),Semester 1 academic,Academic
+Curricular units 1st sem (grade),Semester 1 academic,Academic
+Curricular units 1st sem (without evaluations),Semester 1 academic,Academic
+Curricular units 2nd sem (credited),Semester 2 academic,Academic
+Curricular units 2nd sem (enrolled),Semester 2 academic,Academic
+Curricular units 2nd sem (evaluations),Semester 2 academic,Academic
+Curricular units 2nd sem (approved),Semester 2 academic,Academic
+Curricular units 2nd sem (grade),Semester 2 academic,Academic
+Curricular units 2nd sem (without evaluations),Semester 2 academic,Academic
+Unemployment rate,Macroeconomic,Macroeconomic
+Inflation rate,Macroeconomic,Macroeconomic
+GDP,Macroeconomic,Macroeconomic

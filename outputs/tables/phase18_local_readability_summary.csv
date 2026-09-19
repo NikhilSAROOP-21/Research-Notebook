@@ -1,0 +1,4 @@
+Model,Mean_Top5_Importance_Coverage,Median_Top5_Importance_Coverage,Mean_Actionable_or_Semi_Share,Complete_Actionability_Rate
+Gradient Boosting,0.7031,0.7117,0.7303,1.0
+Logistic Regression,0.575,0.5694,0.5951,1.0
+Random Forest,0.605,0.5954,0.7132,1.0

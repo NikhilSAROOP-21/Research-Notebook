@@ -1,0 +1,5 @@
+,Unemployment rate,Unemployment rate,Inflation rate,Inflation rate,GDP,GDP
+,mean,median,mean,median,mean,median
+Dropout_binary,,,,,,
+Non-dropout,11.542,11.1,1.202,1.4,0.074,0.79
+Dropout,11.616,11.1,1.284,1.4,-0.151,0.32

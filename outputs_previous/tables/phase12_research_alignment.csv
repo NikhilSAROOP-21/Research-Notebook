@@ -1,0 +1,7 @@
+Research_Element,Baseline_Evidence,Final_Conclusion_Yet
+RQ1,Five-fold CV performance for all 3 models across all 3 stages,No
+Objective 1,"Accuracy, Precision, Recall, F1 and ROC-AUC comparisons",No
+H1,Preliminary LR vs RF vs GB performance comparison,No
+H2,Preliminary Stage 1 vs Stage 2 vs Stage 3 comparison,No
+RQ2 / H3,Not answered by baseline performance; requires later SHAP analysis,No
+RQ3 / H4,Not answered by baseline performance; requires later SHAP explanation analysis,No

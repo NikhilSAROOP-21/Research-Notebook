@@ -1,0 +1,4 @@
+Dataset,Dropout_Percentage
+Full dataset,32.12
+Training,32.128
+Held-out test,32.09

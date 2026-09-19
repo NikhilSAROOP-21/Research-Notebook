@@ -1,0 +1,685 @@
+Stage,Position,Transformed_Feature
+Stage 1,0,Marital status_1
+Stage 1,1,Marital status_2
+Stage 1,2,Marital status_3
+Stage 1,3,Marital status_4
+Stage 1,4,Marital status_5
+Stage 1,5,Marital status_6
+Stage 1,6,Application mode_1
+Stage 1,7,Application mode_2
+Stage 1,8,Application mode_5
+Stage 1,9,Application mode_7
+Stage 1,10,Application mode_10
+Stage 1,11,Application mode_15
+Stage 1,12,Application mode_16
+Stage 1,13,Application mode_17
+Stage 1,14,Application mode_18
+Stage 1,15,Application mode_26
+Stage 1,16,Application mode_27
+Stage 1,17,Application mode_39
+Stage 1,18,Application mode_42
+Stage 1,19,Application mode_43
+Stage 1,20,Application mode_44
+Stage 1,21,Application mode_51
+Stage 1,22,Application mode_53
+Stage 1,23,Application mode_57
+Stage 1,24,Course_33
+Stage 1,25,Course_171
+Stage 1,26,Course_8014
+Stage 1,27,Course_9003
+Stage 1,28,Course_9070
+Stage 1,29,Course_9085
+Stage 1,30,Course_9119
+Stage 1,31,Course_9130
+Stage 1,32,Course_9147
+Stage 1,33,Course_9238
+Stage 1,34,Course_9254
+Stage 1,35,Course_9500
+Stage 1,36,Course_9556
+Stage 1,37,Course_9670
+Stage 1,38,Course_9773
+Stage 1,39,Course_9853
+Stage 1,40,Course_9991
+Stage 1,41,Previous qualification_1
+Stage 1,42,Previous qualification_2
+Stage 1,43,Previous qualification_3
+Stage 1,44,Previous qualification_4
+Stage 1,45,Previous qualification_5
+Stage 1,46,Previous qualification_6
+Stage 1,47,Previous qualification_9
+Stage 1,48,Previous qualification_10
+Stage 1,49,Previous qualification_12
+Stage 1,50,Previous qualification_15
+Stage 1,51,Previous qualification_19
+Stage 1,52,Previous qualification_38
+Stage 1,53,Previous qualification_39
+Stage 1,54,Previous qualification_40
+Stage 1,55,Previous qualification_42
+Stage 1,56,Previous qualification_43
+Stage 1,57,Nacionality_1
+Stage 1,58,Nacionality_2
+Stage 1,59,Nacionality_6
+Stage 1,60,Nacionality_11
+Stage 1,61,Nacionality_13
+Stage 1,62,Nacionality_14
+Stage 1,63,Nacionality_17
+Stage 1,64,Nacionality_21
+Stage 1,65,Nacionality_22
+Stage 1,66,Nacionality_24
+Stage 1,67,Nacionality_25
+Stage 1,68,Nacionality_26
+Stage 1,69,Nacionality_41
+Stage 1,70,Nacionality_62
+Stage 1,71,Nacionality_100
+Stage 1,72,Nacionality_101
+Stage 1,73,Nacionality_103
+Stage 1,74,Nacionality_105
+Stage 1,75,Nacionality_109
+Stage 1,76,Mother's qualification_1
+Stage 1,77,Mother's qualification_2
+Stage 1,78,Mother's qualification_3
+Stage 1,79,Mother's qualification_4
+Stage 1,80,Mother's qualification_5
+Stage 1,81,Mother's qualification_6
+Stage 1,82,Mother's qualification_9
+Stage 1,83,Mother's qualification_10
+Stage 1,84,Mother's qualification_11
+Stage 1,85,Mother's qualification_12
+Stage 1,86,Mother's qualification_14
+Stage 1,87,Mother's qualification_19
+Stage 1,88,Mother's qualification_22
+Stage 1,89,Mother's qualification_26
+Stage 1,90,Mother's qualification_29
+Stage 1,91,Mother's qualification_30
+Stage 1,92,Mother's qualification_34
+Stage 1,93,Mother's qualification_35
+Stage 1,94,Mother's qualification_36
+Stage 1,95,Mother's qualification_37
+Stage 1,96,Mother's qualification_38
+Stage 1,97,Mother's qualification_39
+Stage 1,98,Mother's qualification_40
+Stage 1,99,Mother's qualification_41
+Stage 1,100,Mother's qualification_42
+Stage 1,101,Mother's qualification_43
+Stage 1,102,Mother's qualification_44
+Stage 1,103,Father's qualification_1
+Stage 1,104,Father's qualification_2
+Stage 1,105,Father's qualification_3
+Stage 1,106,Father's qualification_4
+Stage 1,107,Father's qualification_5
+Stage 1,108,Father's qualification_6
+Stage 1,109,Father's qualification_9
+Stage 1,110,Father's qualification_10
+Stage 1,111,Father's qualification_11
+Stage 1,112,Father's qualification_12
+Stage 1,113,Father's qualification_14
+Stage 1,114,Father's qualification_19
+Stage 1,115,Father's qualification_20
+Stage 1,116,Father's qualification_22
+Stage 1,117,Father's qualification_25
+Stage 1,118,Father's qualification_26
+Stage 1,119,Father's qualification_27
+Stage 1,120,Father's qualification_29
+Stage 1,121,Father's qualification_30
+Stage 1,122,Father's qualification_31
+Stage 1,123,Father's qualification_33
+Stage 1,124,Father's qualification_34
+Stage 1,125,Father's qualification_35
+Stage 1,126,Father's qualification_36
+Stage 1,127,Father's qualification_37
+Stage 1,128,Father's qualification_38
+Stage 1,129,Father's qualification_39
+Stage 1,130,Father's qualification_40
+Stage 1,131,Father's qualification_41
+Stage 1,132,Father's qualification_43
+Stage 1,133,Father's qualification_44
+Stage 1,134,Mother's occupation_0
+Stage 1,135,Mother's occupation_1
+Stage 1,136,Mother's occupation_2
+Stage 1,137,Mother's occupation_3
+Stage 1,138,Mother's occupation_4
+Stage 1,139,Mother's occupation_5
+Stage 1,140,Mother's occupation_6
+Stage 1,141,Mother's occupation_7
+Stage 1,142,Mother's occupation_8
+Stage 1,143,Mother's occupation_9
+Stage 1,144,Mother's occupation_10
+Stage 1,145,Mother's occupation_90
+Stage 1,146,Mother's occupation_99
+Stage 1,147,Mother's occupation_122
+Stage 1,148,Mother's occupation_123
+Stage 1,149,Mother's occupation_125
+Stage 1,150,Mother's occupation_131
+Stage 1,151,Mother's occupation_132
+Stage 1,152,Mother's occupation_134
+Stage 1,153,Mother's occupation_141
+Stage 1,154,Mother's occupation_143
+Stage 1,155,Mother's occupation_144
+Stage 1,156,Mother's occupation_151
+Stage 1,157,Mother's occupation_152
+Stage 1,158,Mother's occupation_153
+Stage 1,159,Mother's occupation_171
+Stage 1,160,Mother's occupation_175
+Stage 1,161,Mother's occupation_191
+Stage 1,162,Mother's occupation_192
+Stage 1,163,Mother's occupation_193
+Stage 1,164,Mother's occupation_194
+Stage 1,165,Father's occupation_0
+Stage 1,166,Father's occupation_1
+Stage 1,167,Father's occupation_2
+Stage 1,168,Father's occupation_3
+Stage 1,169,Father's occupation_4
+Stage 1,170,Father's occupation_5
+Stage 1,171,Father's occupation_6
+Stage 1,172,Father's occupation_7
+Stage 1,173,Father's occupation_8
+Stage 1,174,Father's occupation_9
+Stage 1,175,Father's occupation_10
+Stage 1,176,Father's occupation_90
+Stage 1,177,Father's occupation_99
+Stage 1,178,Father's occupation_101
+Stage 1,179,Father's occupation_102
+Stage 1,180,Father's occupation_103
+Stage 1,181,Father's occupation_112
+Stage 1,182,Father's occupation_121
+Stage 1,183,Father's occupation_122
+Stage 1,184,Father's occupation_123
+Stage 1,185,Father's occupation_124
+Stage 1,186,Father's occupation_131
+Stage 1,187,Father's occupation_132
+Stage 1,188,Father's occupation_134
+Stage 1,189,Father's occupation_135
+Stage 1,190,Father's occupation_143
+Stage 1,191,Father's occupation_144
+Stage 1,192,Father's occupation_151
+Stage 1,193,Father's occupation_152
+Stage 1,194,Father's occupation_154
+Stage 1,195,Father's occupation_161
+Stage 1,196,Father's occupation_163
+Stage 1,197,Father's occupation_171
+Stage 1,198,Father's occupation_172
+Stage 1,199,Father's occupation_174
+Stage 1,200,Father's occupation_175
+Stage 1,201,Father's occupation_181
+Stage 1,202,Father's occupation_182
+Stage 1,203,Father's occupation_183
+Stage 1,204,Father's occupation_192
+Stage 1,205,Father's occupation_193
+Stage 1,206,Father's occupation_194
+Stage 1,207,Father's occupation_195
+Stage 1,208,Daytime/evening attendance
+Stage 1,209,Displaced
+Stage 1,210,Educational special needs
+Stage 1,211,Debtor
+Stage 1,212,Tuition fees up to date
+Stage 1,213,Gender
+Stage 1,214,Scholarship holder
+Stage 1,215,Application order
+Stage 1,216,Previous qualification (grade)
+Stage 1,217,Admission grade
+Stage 1,218,Age at enrollment
+Stage 1,219,Unemployment rate
+Stage 1,220,Inflation rate
+Stage 1,221,GDP
+Stage 2,0,Marital status_1
+Stage 2,1,Marital status_2
+Stage 2,2,Marital status_3
+Stage 2,3,Marital status_4
+Stage 2,4,Marital status_5
+Stage 2,5,Marital status_6
+Stage 2,6,Application mode_1
+Stage 2,7,Application mode_2
+Stage 2,8,Application mode_5
+Stage 2,9,Application mode_7
+Stage 2,10,Application mode_10
+Stage 2,11,Application mode_15
+Stage 2,12,Application mode_16
+Stage 2,13,Application mode_17
+Stage 2,14,Application mode_18
+Stage 2,15,Application mode_26
+Stage 2,16,Application mode_27
+Stage 2,17,Application mode_39
+Stage 2,18,Application mode_42
+Stage 2,19,Application mode_43
+Stage 2,20,Application mode_44
+Stage 2,21,Application mode_51
+Stage 2,22,Application mode_53
+Stage 2,23,Application mode_57
+Stage 2,24,Course_33
+Stage 2,25,Course_171
+Stage 2,26,Course_8014
+Stage 2,27,Course_9003
+Stage 2,28,Course_9070
+Stage 2,29,Course_9085
+Stage 2,30,Course_9119
+Stage 2,31,Course_9130
+Stage 2,32,Course_9147
+Stage 2,33,Course_9238
+Stage 2,34,Course_9254
+Stage 2,35,Course_9500
+Stage 2,36,Course_9556
+Stage 2,37,Course_9670
+Stage 2,38,Course_9773
+Stage 2,39,Course_9853
+Stage 2,40,Course_9991
+Stage 2,41,Previous qualification_1
+Stage 2,42,Previous qualification_2
+Stage 2,43,Previous qualification_3
+Stage 2,44,Previous qualification_4
+Stage 2,45,Previous qualification_5
+Stage 2,46,Previous qualification_6
+Stage 2,47,Previous qualification_9
+Stage 2,48,Previous qualification_10
+Stage 2,49,Previous qualification_12
+Stage 2,50,Previous qualification_15
+Stage 2,51,Previous qualification_19
+Stage 2,52,Previous qualification_38
+Stage 2,53,Previous qualification_39
+Stage 2,54,Previous qualification_40
+Stage 2,55,Previous qualification_42
+Stage 2,56,Previous qualification_43
+Stage 2,57,Nacionality_1
+Stage 2,58,Nacionality_2
+Stage 2,59,Nacionality_6
+Stage 2,60,Nacionality_11
+Stage 2,61,Nacionality_13
+Stage 2,62,Nacionality_14
+Stage 2,63,Nacionality_17
+Stage 2,64,Nacionality_21
+Stage 2,65,Nacionality_22
+Stage 2,66,Nacionality_24
+Stage 2,67,Nacionality_25
+Stage 2,68,Nacionality_26
+Stage 2,69,Nacionality_41
+Stage 2,70,Nacionality_62
+Stage 2,71,Nacionality_100
+Stage 2,72,Nacionality_101
+Stage 2,73,Nacionality_103
+Stage 2,74,Nacionality_105
+Stage 2,75,Nacionality_109
+Stage 2,76,Mother's qualification_1
+Stage 2,77,Mother's qualification_2
+Stage 2,78,Mother's qualification_3
+Stage 2,79,Mother's qualification_4
+Stage 2,80,Mother's qualification_5
+Stage 2,81,Mother's qualification_6
+Stage 2,82,Mother's qualification_9
+Stage 2,83,Mother's qualification_10
+Stage 2,84,Mother's qualification_11
+Stage 2,85,Mother's qualification_12
+Stage 2,86,Mother's qualification_14
+Stage 2,87,Mother's qualification_19
+Stage 2,88,Mother's qualification_22
+Stage 2,89,Mother's qualification_26
+Stage 2,90,Mother's qualification_29
+Stage 2,91,Mother's qualification_30
+Stage 2,92,Mother's qualification_34
+Stage 2,93,Mother's qualification_35
+Stage 2,94,Mother's qualification_36
+Stage 2,95,Mother's qualification_37
+Stage 2,96,Mother's qualification_38
+Stage 2,97,Mother's qualification_39
+Stage 2,98,Mother's qualification_40
+Stage 2,99,Mother's qualification_41
+Stage 2,100,Mother's qualification_42
+Stage 2,101,Mother's qualification_43
+Stage 2,102,Mother's qualification_44
+Stage 2,103,Father's qualification_1
+Stage 2,104,Father's qualification_2
+Stage 2,105,Father's qualification_3
+Stage 2,106,Father's qualification_4
+Stage 2,107,Father's qualification_5
+Stage 2,108,Father's qualification_6
+Stage 2,109,Father's qualification_9
+Stage 2,110,Father's qualification_10
+Stage 2,111,Father's qualification_11
+Stage 2,112,Father's qualification_12
+Stage 2,113,Father's qualification_14
+Stage 2,114,Father's qualification_19
+Stage 2,115,Father's qualification_20
+Stage 2,116,Father's qualification_22
+Stage 2,117,Father's qualification_25
+Stage 2,118,Father's qualification_26
+Stage 2,119,Father's qualification_27
+Stage 2,120,Father's qualification_29
+Stage 2,121,Father's qualification_30
+Stage 2,122,Father's qualification_31
+Stage 2,123,Father's qualification_33
+Stage 2,124,Father's qualification_34
+Stage 2,125,Father's qualification_35
+Stage 2,126,Father's qualification_36
+Stage 2,127,Father's qualification_37
+Stage 2,128,Father's qualification_38
+Stage 2,129,Father's qualification_39
+Stage 2,130,Father's qualification_40
+Stage 2,131,Father's qualification_41
+Stage 2,132,Father's qualification_43
+Stage 2,133,Father's qualification_44
+Stage 2,134,Mother's occupation_0
+Stage 2,135,Mother's occupation_1
+Stage 2,136,Mother's occupation_2
+Stage 2,137,Mother's occupation_3
+Stage 2,138,Mother's occupation_4
+Stage 2,139,Mother's occupation_5
+Stage 2,140,Mother's occupation_6
+Stage 2,141,Mother's occupation_7
+Stage 2,142,Mother's occupation_8
+Stage 2,143,Mother's occupation_9
+Stage 2,144,Mother's occupation_10
+Stage 2,145,Mother's occupation_90
+Stage 2,146,Mother's occupation_99
+Stage 2,147,Mother's occupation_122
+Stage 2,148,Mother's occupation_123
+Stage 2,149,Mother's occupation_125
+Stage 2,150,Mother's occupation_131
+Stage 2,151,Mother's occupation_132
+Stage 2,152,Mother's occupation_134
+Stage 2,153,Mother's occupation_141
+Stage 2,154,Mother's occupation_143
+Stage 2,155,Mother's occupation_144
+Stage 2,156,Mother's occupation_151
+Stage 2,157,Mother's occupation_152
+Stage 2,158,Mother's occupation_153
+Stage 2,159,Mother's occupation_171
+Stage 2,160,Mother's occupation_175
+Stage 2,161,Mother's occupation_191
+Stage 2,162,Mother's occupation_192
+Stage 2,163,Mother's occupation_193
+Stage 2,164,Mother's occupation_194
+Stage 2,165,Father's occupation_0
+Stage 2,166,Father's occupation_1
+Stage 2,167,Father's occupation_2
+Stage 2,168,Father's occupation_3
+Stage 2,169,Father's occupation_4
+Stage 2,170,Father's occupation_5
+Stage 2,171,Father's occupation_6
+Stage 2,172,Father's occupation_7
+Stage 2,173,Father's occupation_8
+Stage 2,174,Father's occupation_9
+Stage 2,175,Father's occupation_10
+Stage 2,176,Father's occupation_90
+Stage 2,177,Father's occupation_99
+Stage 2,178,Father's occupation_101
+Stage 2,179,Father's occupation_102
+Stage 2,180,Father's occupation_103
+Stage 2,181,Father's occupation_112
+Stage 2,182,Father's occupation_121
+Stage 2,183,Father's occupation_122
+Stage 2,184,Father's occupation_123
+Stage 2,185,Father's occupation_124
+Stage 2,186,Father's occupation_131
+Stage 2,187,Father's occupation_132
+Stage 2,188,Father's occupation_134
+Stage 2,189,Father's occupation_135
+Stage 2,190,Father's occupation_143
+Stage 2,191,Father's occupation_144
+Stage 2,192,Father's occupation_151
+Stage 2,193,Father's occupation_152
+Stage 2,194,Father's occupation_154
+Stage 2,195,Father's occupation_161
+Stage 2,196,Father's occupation_163
+Stage 2,197,Father's occupation_171
+Stage 2,198,Father's occupation_172
+Stage 2,199,Father's occupation_174
+Stage 2,200,Father's occupation_175
+Stage 2,201,Father's occupation_181
+Stage 2,202,Father's occupation_182
+Stage 2,203,Father's occupation_183
+Stage 2,204,Father's occupation_192
+Stage 2,205,Father's occupation_193
+Stage 2,206,Father's occupation_194
+Stage 2,207,Father's occupation_195
+Stage 2,208,Daytime/evening attendance
+Stage 2,209,Displaced
+Stage 2,210,Educational special needs
+Stage 2,211,Debtor
+Stage 2,212,Tuition fees up to date
+Stage 2,213,Gender
+Stage 2,214,Scholarship holder
+Stage 2,215,Application order
+Stage 2,216,Previous qualification (grade)
+Stage 2,217,Admission grade
+Stage 2,218,Age at enrollment
+Stage 2,219,Curricular units 1st sem (credited)
+Stage 2,220,Curricular units 1st sem (enrolled)
+Stage 2,221,Curricular units 1st sem (evaluations)
+Stage 2,222,Curricular units 1st sem (approved)
+Stage 2,223,Curricular units 1st sem (grade)
+Stage 2,224,Curricular units 1st sem (without evaluations)
+Stage 2,225,Unemployment rate
+Stage 2,226,Inflation rate
+Stage 2,227,GDP
+Stage 3,0,Marital status_1
+Stage 3,1,Marital status_2
+Stage 3,2,Marital status_3
+Stage 3,3,Marital status_4
+Stage 3,4,Marital status_5
+Stage 3,5,Marital status_6
+Stage 3,6,Application mode_1
+Stage 3,7,Application mode_2
+Stage 3,8,Application mode_5
+Stage 3,9,Application mode_7
+Stage 3,10,Application mode_10
+Stage 3,11,Application mode_15
+Stage 3,12,Application mode_16
+Stage 3,13,Application mode_17
+Stage 3,14,Application mode_18
+Stage 3,15,Application mode_26
+Stage 3,16,Application mode_27
+Stage 3,17,Application mode_39
+Stage 3,18,Application mode_42
+Stage 3,19,Application mode_43
+Stage 3,20,Application mode_44
+Stage 3,21,Application mode_51
+Stage 3,22,Application mode_53
+Stage 3,23,Application mode_57
+Stage 3,24,Course_33
+Stage 3,25,Course_171
+Stage 3,26,Course_8014
+Stage 3,27,Course_9003
+Stage 3,28,Course_9070
+Stage 3,29,Course_9085
+Stage 3,30,Course_9119
+Stage 3,31,Course_9130
+Stage 3,32,Course_9147
+Stage 3,33,Course_9238
+Stage 3,34,Course_9254
+Stage 3,35,Course_9500
+Stage 3,36,Course_9556
+Stage 3,37,Course_9670
+Stage 3,38,Course_9773
+Stage 3,39,Course_9853
+Stage 3,40,Course_9991
+Stage 3,41,Previous qualification_1
+Stage 3,42,Previous qualification_2
+Stage 3,43,Previous qualification_3
+Stage 3,44,Previous qualification_4
+Stage 3,45,Previous qualification_5
+Stage 3,46,Previous qualification_6
+Stage 3,47,Previous qualification_9
+Stage 3,48,Previous qualification_10
+Stage 3,49,Previous qualification_12
+Stage 3,50,Previous qualification_15
+Stage 3,51,Previous qualification_19
+Stage 3,52,Previous qualification_38
+Stage 3,53,Previous qualification_39
+Stage 3,54,Previous qualification_40
+Stage 3,55,Previous qualification_42
+Stage 3,56,Previous qualification_43
+Stage 3,57,Nacionality_1
+Stage 3,58,Nacionality_2
+Stage 3,59,Nacionality_6
+Stage 3,60,Nacionality_11
+Stage 3,61,Nacionality_13
+Stage 3,62,Nacionality_14
+Stage 3,63,Nacionality_17
+Stage 3,64,Nacionality_21
+Stage 3,65,Nacionality_22
+Stage 3,66,Nacionality_24
+Stage 3,67,Nacionality_25
+Stage 3,68,Nacionality_26
+Stage 3,69,Nacionality_41
+Stage 3,70,Nacionality_62
+Stage 3,71,Nacionality_100
+Stage 3,72,Nacionality_101
+Stage 3,73,Nacionality_103
+Stage 3,74,Nacionality_105
+Stage 3,75,Nacionality_109
+Stage 3,76,Mother's qualification_1
+Stage 3,77,Mother's qualification_2
+Stage 3,78,Mother's qualification_3
+Stage 3,79,Mother's qualification_4
+Stage 3,80,Mother's qualification_5
+Stage 3,81,Mother's qualification_6
+Stage 3,82,Mother's qualification_9
+Stage 3,83,Mother's qualification_10
+Stage 3,84,Mother's qualification_11
+Stage 3,85,Mother's qualification_12
+Stage 3,86,Mother's qualification_14
+Stage 3,87,Mother's qualification_19
+Stage 3,88,Mother's qualification_22
+Stage 3,89,Mother's qualification_26
+Stage 3,90,Mother's qualification_29
+Stage 3,91,Mother's qualification_30
+Stage 3,92,Mother's qualification_34
+Stage 3,93,Mother's qualification_35
+Stage 3,94,Mother's qualification_36
+Stage 3,95,Mother's qualification_37
+Stage 3,96,Mother's qualification_38
+Stage 3,97,Mother's qualification_39
+Stage 3,98,Mother's qualification_40
+Stage 3,99,Mother's qualification_41
+Stage 3,100,Mother's qualification_42
+Stage 3,101,Mother's qualification_43
+Stage 3,102,Mother's qualification_44
+Stage 3,103,Father's qualification_1
+Stage 3,104,Father's qualification_2
+Stage 3,105,Father's qualification_3
+Stage 3,106,Father's qualification_4
+Stage 3,107,Father's qualification_5
+Stage 3,108,Father's qualification_6
+Stage 3,109,Father's qualification_9
+Stage 3,110,Father's qualification_10
+Stage 3,111,Father's qualification_11
+Stage 3,112,Father's qualification_12
+Stage 3,113,Father's qualification_14
+Stage 3,114,Father's qualification_19
+Stage 3,115,Father's qualification_20
+Stage 3,116,Father's qualification_22
+Stage 3,117,Father's qualification_25
+Stage 3,118,Father's qualification_26
+Stage 3,119,Father's qualification_27
+Stage 3,120,Father's qualification_29
+Stage 3,121,Father's qualification_30
+Stage 3,122,Father's qualification_31
+Stage 3,123,Father's qualification_33
+Stage 3,124,Father's qualification_34
+Stage 3,125,Father's qualification_35
+Stage 3,126,Father's qualification_36
+Stage 3,127,Father's qualification_37
+Stage 3,128,Father's qualification_38
+Stage 3,129,Father's qualification_39
+Stage 3,130,Father's qualification_40
+Stage 3,131,Father's qualification_41
+Stage 3,132,Father's qualification_43
+Stage 3,133,Father's qualification_44
+Stage 3,134,Mother's occupation_0
+Stage 3,135,Mother's occupation_1
+Stage 3,136,Mother's occupation_2
+Stage 3,137,Mother's occupation_3
+Stage 3,138,Mother's occupation_4
+Stage 3,139,Mother's occupation_5
+Stage 3,140,Mother's occupation_6
+Stage 3,141,Mother's occupation_7
+Stage 3,142,Mother's occupation_8
+Stage 3,143,Mother's occupation_9
+Stage 3,144,Mother's occupation_10
+Stage 3,145,Mother's occupation_90
+Stage 3,146,Mother's occupation_99
+Stage 3,147,Mother's occupation_122
+Stage 3,148,Mother's occupation_123
+Stage 3,149,Mother's occupation_125
+Stage 3,150,Mother's occupation_131
+Stage 3,151,Mother's occupation_132
+Stage 3,152,Mother's occupation_134
+Stage 3,153,Mother's occupation_141
+Stage 3,154,Mother's occupation_143
+Stage 3,155,Mother's occupation_144
+Stage 3,156,Mother's occupation_151
+Stage 3,157,Mother's occupation_152
+Stage 3,158,Mother's occupation_153
+Stage 3,159,Mother's occupation_171
+Stage 3,160,Mother's occupation_175
+Stage 3,161,Mother's occupation_191
+Stage 3,162,Mother's occupation_192
+Stage 3,163,Mother's occupation_193
+Stage 3,164,Mother's occupation_194
+Stage 3,165,Father's occupation_0
+Stage 3,166,Father's occupation_1
+Stage 3,167,Father's occupation_2
+Stage 3,168,Father's occupation_3
+Stage 3,169,Father's occupation_4
+Stage 3,170,Father's occupation_5
+Stage 3,171,Father's occupation_6
+Stage 3,172,Father's occupation_7
+Stage 3,173,Father's occupation_8
+Stage 3,174,Father's occupation_9
+Stage 3,175,Father's occupation_10
+Stage 3,176,Father's occupation_90
+Stage 3,177,Father's occupation_99
+Stage 3,178,Father's occupation_101
+Stage 3,179,Father's occupation_102
+Stage 3,180,Father's occupation_103
+Stage 3,181,Father's occupation_112
+Stage 3,182,Father's occupation_121
+Stage 3,183,Father's occupation_122
+Stage 3,184,Father's occupation_123
+Stage 3,185,Father's occupation_124
+Stage 3,186,Father's occupation_131
+Stage 3,187,Father's occupation_132
+Stage 3,188,Father's occupation_134
+Stage 3,189,Father's occupation_135
+Stage 3,190,Father's occupation_143
+Stage 3,191,Father's occupation_144
+Stage 3,192,Father's occupation_151
+Stage 3,193,Father's occupation_152
+Stage 3,194,Father's occupation_154
+Stage 3,195,Father's occupation_161
+Stage 3,196,Father's occupation_163
+Stage 3,197,Father's occupation_171
+Stage 3,198,Father's occupation_172
+Stage 3,199,Father's occupation_174
+Stage 3,200,Father's occupation_175
+Stage 3,201,Father's occupation_181
+Stage 3,202,Father's occupation_182
+Stage 3,203,Father's occupation_183
+Stage 3,204,Father's occupation_192
+Stage 3,205,Father's occupation_193
+Stage 3,206,Father's occupation_194
+Stage 3,207,Father's occupation_195
+Stage 3,208,Daytime/evening attendance
+Stage 3,209,Displaced
+Stage 3,210,Educational special needs
+Stage 3,211,Debtor
+Stage 3,212,Tuition fees up to date
+Stage 3,213,Gender
+Stage 3,214,Scholarship holder
+Stage 3,215,Application order
+Stage 3,216,Previous qualification (grade)
+Stage 3,217,Admission grade
+Stage 3,218,Age at enrollment
+Stage 3,219,Curricular units 1st sem (credited)
+Stage 3,220,Curricular units 1st sem (enrolled)
+Stage 3,221,Curricular units 1st sem (evaluations)
+Stage 3,222,Curricular units 1st sem (approved)
+Stage 3,223,Curricular units 1st sem (grade)
+Stage 3,224,Curricular units 1st sem (without evaluations)
+Stage 3,225,Curricular units 2nd sem (credited)
+Stage 3,226,Curricular units 2nd sem (enrolled)
+Stage 3,227,Curricular units 2nd sem (evaluations)
+Stage 3,228,Curricular units 2nd sem (approved)
+Stage 3,229,Curricular units 2nd sem (grade)
+Stage 3,230,Curricular units 2nd sem (without evaluations)
+Stage 3,231,Unemployment rate
+Stage 3,232,Inflation rate
+Stage 3,233,GDP

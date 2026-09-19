@@ -1,0 +1,40 @@
+Stage,Feature,Transformed_Mean,Transformed_Std
+Stage 1,Application order,-4.015500060808704e-17,1.0
+Stage 1,Previous qualification (grade),6.173831343493382e-17,0.9999999999999999
+Stage 1,Admission grade,-6.32441259577371e-17,0.9999999999999999
+Stage 1,Age at enrollment,-1.2849600194587853e-16,1.0
+Stage 1,Unemployment rate,-4.1158875623289215e-16,0.9999999999999999
+Stage 1,Inflation rate,3.4131750516873984e-17,0.9999999999999999
+Stage 1,GDP,-3.2124000486469633e-17,0.9999999999999999
+Stage 2,Application order,-4.015500060808704e-17,1.0
+Stage 2,Previous qualification (grade),6.173831343493382e-17,0.9999999999999999
+Stage 2,Admission grade,-6.32441259577371e-17,0.9999999999999999
+Stage 2,Age at enrollment,-1.2849600194587853e-16,1.0
+Stage 2,Curricular units 1st sem (credited),-1.6062000243234817e-17,0.9999999999999999
+Stage 2,Curricular units 1st sem (enrolled),1.2849600194587853e-16,0.9999999999999999
+Stage 2,Curricular units 1st sem (evaluations),-1.9475175294922216e-16,1.0
+Stage 2,Curricular units 1st sem (approved),1.124340017026437e-16,1.0
+Stage 2,Curricular units 1st sem (grade),1.7266650261477427e-16,1.0
+Stage 2,Curricular units 1st sem (without evaluations),0.0,1.0
+Stage 2,Unemployment rate,-4.1158875623289215e-16,0.9999999999999999
+Stage 2,Inflation rate,3.4131750516873984e-17,0.9999999999999999
+Stage 2,GDP,-3.2124000486469633e-17,0.9999999999999999
+Stage 3,Application order,-4.015500060808704e-17,1.0
+Stage 3,Previous qualification (grade),6.173831343493382e-17,0.9999999999999999
+Stage 3,Admission grade,-6.32441259577371e-17,0.9999999999999999
+Stage 3,Age at enrollment,-1.2849600194587853e-16,1.0
+Stage 3,Curricular units 1st sem (credited),-1.6062000243234817e-17,0.9999999999999999
+Stage 3,Curricular units 1st sem (enrolled),1.2849600194587853e-16,0.9999999999999999
+Stage 3,Curricular units 1st sem (evaluations),-1.9475175294922216e-16,1.0
+Stage 3,Curricular units 1st sem (approved),1.124340017026437e-16,1.0
+Stage 3,Curricular units 1st sem (grade),1.7266650261477427e-16,1.0
+Stage 3,Curricular units 1st sem (without evaluations),0.0,1.0
+Stage 3,Curricular units 2nd sem (credited),-8.031000121617408e-18,1.0
+Stage 3,Curricular units 2nd sem (enrolled),1.3150762699148505e-16,0.9999999999999998
+Stage 3,Curricular units 2nd sem (evaluations),1.9073625288841344e-16,1.0
+Stage 3,Curricular units 2nd sem (approved),1.6062000243234816e-16,1.0
+Stage 3,Curricular units 2nd sem (grade),3.6139500547278334e-17,0.9999999999999999
+Stage 3,Curricular units 2nd sem (without evaluations),4.4170500668895747e-17,1.0
+Stage 3,Unemployment rate,-4.1158875623289215e-16,0.9999999999999999
+Stage 3,Inflation rate,3.4131750516873984e-17,0.9999999999999999
+Stage 3,GDP,-3.2124000486469633e-17,0.9999999999999999

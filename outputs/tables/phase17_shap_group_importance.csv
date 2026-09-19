@@ -1,0 +1,55 @@
+Stage,Model,Research_Group,Importance_Share,Group_Rank
+Stage 1,Gradient Boosting,Socioeconomic,0.4916334514135483,1
+Stage 1,Gradient Boosting,Demographic,0.22234699979393382,2
+Stage 1,Gradient Boosting,Application / enrolment,0.16735092681830357,3
+Stage 1,Gradient Boosting,Macroeconomic,0.05841635934259092,4
+Stage 1,Gradient Boosting,Academic,0.05733341313459527,5
+Stage 1,Gradient Boosting,Demographic / socioeconomic,0.0029188494970282253,6
+Stage 1,Logistic Regression,Socioeconomic,0.45654895895619935,1
+Stage 1,Logistic Regression,Application / enrolment,0.2550356370026599,2
+Stage 1,Logistic Regression,Demographic,0.14327117027887284,3
+Stage 1,Logistic Regression,Academic,0.07286034541979053,4
+Stage 1,Logistic Regression,Macroeconomic,0.06153540663488906,5
+Stage 1,Logistic Regression,Demographic / socioeconomic,0.010748481707588142,6
+Stage 1,Random Forest,Socioeconomic,0.45697165618193347,1
+Stage 1,Random Forest,Demographic,0.21958755281126327,2
+Stage 1,Random Forest,Application / enrolment,0.18657019368666936,3
+Stage 1,Random Forest,Academic,0.08922603881172717,4
+Stage 1,Random Forest,Macroeconomic,0.032159838895914845,5
+Stage 1,Random Forest,Demographic / socioeconomic,0.015484719612491846,6
+Stage 2,Gradient Boosting,Academic,0.5037424591133356,1
+Stage 2,Gradient Boosting,Socioeconomic,0.24809829594368515,2
+Stage 2,Gradient Boosting,Demographic,0.13774085716938644,3
+Stage 2,Gradient Boosting,Application / enrolment,0.06458516525248,4
+Stage 2,Gradient Boosting,Macroeconomic,0.03591762026702383,5
+Stage 2,Gradient Boosting,Demographic / socioeconomic,0.009915602254089039,6
+Stage 2,Logistic Regression,Academic,0.4622571379294293,1
+Stage 2,Logistic Regression,Socioeconomic,0.23687930372098334,2
+Stage 2,Logistic Regression,Application / enrolment,0.12095503155575643,3
+Stage 2,Logistic Regression,Demographic,0.086468246138783,4
+Stage 2,Logistic Regression,Macroeconomic,0.0664020038000706,5
+Stage 2,Logistic Regression,Demographic / socioeconomic,0.027038276854977276,6
+Stage 2,Random Forest,Academic,0.45514553762158316,1
+Stage 2,Random Forest,Socioeconomic,0.28766343438698055,2
+Stage 2,Random Forest,Demographic,0.12061324517813705,3
+Stage 2,Random Forest,Application / enrolment,0.10370744887739944,4
+Stage 2,Random Forest,Macroeconomic,0.026476225100317184,5
+Stage 2,Random Forest,Demographic / socioeconomic,0.006394108835582443,6
+Stage 3,Gradient Boosting,Academic,0.6093464829556398,1
+Stage 3,Gradient Boosting,Socioeconomic,0.2055931118253433,2
+Stage 3,Gradient Boosting,Demographic,0.09399318294654878,3
+Stage 3,Gradient Boosting,Application / enrolment,0.060048707060401545,4
+Stage 3,Gradient Boosting,Macroeconomic,0.026884484556236467,5
+Stage 3,Gradient Boosting,Demographic / socioeconomic,0.004134030655830229,6
+Stage 3,Logistic Regression,Academic,0.5887635858463969,1
+Stage 3,Logistic Regression,Socioeconomic,0.1921311209536117,2
+Stage 3,Logistic Regression,Application / enrolment,0.09529722596989845,3
+Stage 3,Logistic Regression,Demographic,0.0641550446975487,4
+Stage 3,Logistic Regression,Macroeconomic,0.041499015184061835,5
+Stage 3,Logistic Regression,Demographic / socioeconomic,0.0181540073484825,6
+Stage 3,Random Forest,Academic,0.6092464273037602,1
+Stage 3,Random Forest,Socioeconomic,0.20684995752893126,2
+Stage 3,Random Forest,Demographic,0.08450477273320879,3
+Stage 3,Random Forest,Application / enrolment,0.07430018510519495,4
+Stage 3,Random Forest,Macroeconomic,0.020091528282918998,5
+Stage 3,Random Forest,Demographic / socioeconomic,0.00500712904598582,6

@@ -1,0 +1,4 @@
+Model,Baseline_Configuration_In_Grid
+Logistic Regression,True
+Random Forest,True
+Gradient Boosting,True
