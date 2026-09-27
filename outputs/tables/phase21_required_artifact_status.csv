@@ -2,7 +2,7 @@ Required_Artifact,File_Name,Exists,Non_Empty,File_Size_Bytes
 Phase 17 SHAP background indices,phase17_shap_background_indices.csv,True,True,2136
 Phase 17 SHAP background sensitivity indices,phase17_shap_background_sensitivity_indices.csv,True,True,6303
 Phase 17 SHAP background audit,phase17_shap_background_audit.csv,True,True,1094
-Phase 17 SHAP additivity audit,phase17_shap_additivity_audit.csv,True,True,1033
+Phase 17 SHAP additivity audit,phase17_shap_additivity_audit.csv,True,True,1034
 Phase 17 SHAP background sensitivity results,phase17_shap_background_sensitivity.csv,True,True,1044
 Phase 19 fairness subgroup metrics,phase19_subgroup_performance.csv,True,True,15053
 Phase 19 fairness gap summary,phase19_subgroup_gap_summary.csv,True,True,1945
