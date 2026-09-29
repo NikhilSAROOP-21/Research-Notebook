@@ -1,10 +1,10 @@
 Stage,Model,Mean_Fit_Seconds,Std_Fit_Seconds
-Stage 1,Gradient Boosting,0.914,0.049
-Stage 1,Logistic Regression,0.063,0.004
-Stage 1,Random Forest,0.18,0.014
-Stage 2,Gradient Boosting,0.974,0.042
-Stage 2,Logistic Regression,0.052,0.004
-Stage 2,Random Forest,0.161,0.004
-Stage 3,Gradient Boosting,1.094,0.087
-Stage 3,Logistic Regression,0.057,0.004
-Stage 3,Random Forest,0.168,0.006
+Stage 1,Gradient Boosting,0.78,0.065
+Stage 1,Logistic Regression,0.052,0.005
+Stage 1,Random Forest,0.146,0.018
+Stage 2,Gradient Boosting,1.032,0.012
+Stage 2,Logistic Regression,0.058,0.014
+Stage 2,Random Forest,0.17,0.013
+Stage 3,Gradient Boosting,1.144,0.069
+Stage 3,Logistic Regression,0.058,0.007
+Stage 3,Random Forest,0.171,0.009
